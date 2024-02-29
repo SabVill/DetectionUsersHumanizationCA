@@ -1,0 +1,701 @@
+dialogue_id,turn,Model,words,sentences,simple_quest,whq,imper_quest,places,sensitive_data,relatives,first_names,conditional_vb,gratitude,thanksgiving,excuses,greetings,self_references,you_references,neutral_references,neg,pos,neu
+1,Show me recipes for salad with tomatoes and croutons and without eggs food,1,13,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+2,Recipe for deep fired chicken,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.474,0.0,0.526
+3,Show me vegan Chinese recipes.,0,5,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+4,Show me vegan Italian recipes.,0,5,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+5,How do I cook skate fish?,1,6,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+6,show me baklava recipes,0,4,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+7,Show me a gluten free bread recipe that takes one minutes to bake,0,13,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.231,0.769
+8,looking for good vegetarian meals,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.42,0.58
+9,can you find me a recipe for carrot cake,1,9,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.0,1.0
+10,Show me a recipe for trifle,0,6,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+11,Recipe for a bundt cake,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+12,Show me vegan Thai recipes.,0,5,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+13,what is a good chili recipe,0,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.42,0.58
+14,I'm looking for a recipe for pumpkin pie with raisins,1,11,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+15,can you help me find a lasagna recipe,1,8,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.31,0.69
+16,Show me a recipe for tomato bisque.,0,7,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+17,Show me the recipe for making hamburger,0,7,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+18,Show me an easy stir fry recipe,0,7,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.326,0.674
+19,Show me the recipe for making pizza,0,7,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+20,Get me a recipe that uses potatoes and kale.,0,9,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+21,Show me vegetarian Italian pasta recipes now.,0,7,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+22,Show me dessert recipes with peanut butter.,0,7,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+23,Show me a bread recipe that is easy to make in an hour.,0,13,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.209,0.791
+24,Show me a recipe for homemade pizza,0,7,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+25,Show me the quickest pizza recipe,0,6,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+26,how do i make that scottish dish with all the blood and sausage,1,13,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+27,Can you show me eggnog recipes that don't have any eggs in them,1,14,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.0,1.0
+28,healthy dinner recipes,0,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.574,0.426
+29,How long should I boil an egg?,1,7,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.0,1.0
+30,whats the best way to roast a chicken,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.412,0.588
+31,Which recipes for lasagna are gluten free?,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.355,0.645
+32,Show me chicken kiev recipes,0,5,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+33,I want chicken recipes that are seasoned with lots of spices.,1,11,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.126,0.874
+34,show me some vegetarian receipe,0,5,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+35,Show me low fat recipes which gives delicious taste,0,9,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.164,0.289,0.547
+36,How long should I bake a 7 pound chicken at 350 degrees?,1,12,1,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0,0.0,0.0,1.0
+37,do you know the receipe for noodles,1,7,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0.0,1.0
+38,Show me vegetarian Italian pasta recipes,0,6,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+39,can you find me a recipe for pie,1,8,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.0,1.0
+40,Show me a vegan breakfast dish I can make in 30 minutes.,1,12,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+41,Can you find me a recipe for baked Alaska,1,9,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.0,1.0
+42,"find a chow mein recipe for me, please",1,8,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0.0,0.277,0.723
+43,Show me the recipe for making butter,0,7,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+44,Give me the recipe for lasanga with meat,0,8,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+45,How many brownie recipes have soy?,0,6,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+46,how do you cook apple pie,1,6,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0.0,1.0
+47,Show me recipes for Italian salad dressing.,0,7,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+48,How long should I boil the pasta?,1,7,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.0,1.0
+49,Show me a list of quick and easy dinner recipes.,0,10,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.266,0.734
+50,Show me recipes for salad with tomatoes and croutons and without eggs,0,12,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+51,show me a mushroom risotto recipe.,0,6,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+52,Show me a recipe that involves leeks.,0,7,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+53,Show me a recipe I can make with a pan.,0,10,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+54,How long does it take to cook pasta?,0,8,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0.0,1.0
+55,Show me recipe of a quick and easy Korean dish.,0,10,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.266,0.734
+56,Could you show me a casserole recipe with red peppers that takes less than an hour to bake?,1,18,1,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0.0,0.0,1.0
+57,Show me lactose free baking recipes,0,6,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.398,0.602
+58,Show me recipes for salad with tomatoes and croutons and with eggs,0,12,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+59,Show me American breakfast recipes.,0,5,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+60,Can you give me a stir fir chicken recipe,1,9,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.0,1.0
+61,gluten free meals,0,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.623,0.377
+62,Show me Non-vegetarian Italian pasta recipes,0,6,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+63,Show me a meatball recipe,0,5,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+64,What is the perfect boiling time for a soft-boiled egg?,0,10,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.316,0.684
+65,Show me gluten free side dish recipes.,0,7,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.355,0.645
+66,Show me meat recipes which are high in proteins,0,9,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+67,Show me a recipe I can make with a toaster oven.,1,11,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+68,Show me some vegetarian Italian pasta recipes,0,7,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+69,Get a list of recipes for steak.,0,7,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+70,Show me a cake recipe with the least sugar,0,9,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+71,Show me main dish recipes that use pinto beans.,0,9,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+72,Show me gluten free pasta recipes,0,6,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.398,0.602
+73,Show me vegan dessert recipes.,0,5,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+74,Show me grilled pork recipes.,0,5,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+75,Show me non-veg recipes with spicy taste,0,7,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+76,How to make a salad?,0,5,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+77,i need to know how to make philly cheesesteaks,1,9,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+78,what are the ingridents need for italian pasta,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+79,How do I make a lemon ginger sauce?,1,8,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+80,Show me potato salad recipes with eggs.,0,7,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+81,Show me a recipe for gnocchi.,0,6,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+82,Show me a cookie recipe that doesn't include nuts.,0,10,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.219,0.781
+83,Show me Italian pasta recipes,0,5,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+84,Show me Non vegetarian Italian pasta recipes,0,7,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+85,Show me recipes for salad with tomatoes and croutons and Sugar,0,11,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+86,Give me a famous chinese recipe,0,6,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+87,"Show me egg free, dairy free bread recipes.",0,8,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.524,0.476
+88,Show me burger recipes,0,4,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+89,Show me a gluten free bread recipe that takes one hour to bake limited,0,14,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.117,0.204,0.679
+90,Pull up a list of simple sun tea recipes.,0,9,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+91,Show me a gluten free bread recipe that takes one hour to bake,0,13,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.231,0.769
+92,How do I make tomato sauce?,1,6,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+93,Would you show me a brownie recipe that does not include nuts?,1,12,1,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0.0,0.164,0.836
+94,can you find a recipe on how to make chow mein,1,11,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0.0,1.0
+95,can you find a hearty lasagna recipe,1,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0.0,1.0
+96,please show me a recipe for chili,1,7,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0.0,0.315,0.685
+97,I'm looking for plant based meat options,1,8,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+98,Show me the recipe for making tofu,0,7,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+99,Could you pull up some vegan bread recipes for me?,1,10,1,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0.0,0.0,1.0
+100,Show me a banana recipe that is not a dessert,0,10,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+101,turn off alarm after ringing 3 times,0,7,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0.324,0.0,0.676
+102,Cancel my 10am alarm right away.,0,6,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.524,0.0,0.476
+103,I need an alarm to wake me up at 5am tomorrow for my flight.,0,14,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.167,0.0,0.833
+104,"Alexa, stop alarm",0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.821,0.0,0.179
+105,set an alarm to go to sleep and another to wake up,0,12,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.179,0.0,0.821
+106,When is my next alarm set to go off?,0,9,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0.231,0.0,0.769
+107,"set alarm for 2pm,8pm to take ur medication",0,8,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0.255,0.0,0.745
+108,i need an alarm set,0,5,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.444,0.0,0.556
+109,Change my alarm from 9 am to 8 am.,0,9,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.286,0.0,0.714
+110,i need alarms set for 6am and 615am,0,8,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.259,0.0,0.741
+111,Notify me at 4pm every Saturday,0,6,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+112,Create alarms for 6 am during weekdays,0,7,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0.256,0.256,0.488
+113,Replace my 10am alarm next week with a 9am alarm.,0,10,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0.407,0.0,0.593
+114,set alarm at six thirty,0,5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.375,0.0,0.625
+115,hey google set an alarm for 4 am,0,8,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0.286,0.0,0.714
+116,Start an alarm for 10 minutes from now,0,8,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0.255,0.0,0.745
+117,What time is the alarm set for?,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.286,0.0,0.714
+118,"Alexa, set an alarm for 8:30 AM to my spotify playlist",0,11,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0.194,0.0,0.806
+119,Set my alarm for 8 AM on Sunday morning.,0,9,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.255,0.0,0.745
+120,create alarms for 8 pm and 9 pm,0,8,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0.256,0.256,0.488
+121,Set alarm for 08:00 for Thursdays,0,6,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0.324,0.0,0.676
+122,set alarm for 8 am every Friday,0,7,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0.324,0.0,0.676
+123,Please set alarm at 8am,1,5,1,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0.312,0.299,0.39
+124,create alarm for 10 pm every night,0,7,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0.253,0.221,0.526
+125,Can you cancel my morning alarm?,1,6,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.524,0.0,0.476
+126,need to set clock alaram at vibrate mode,0,8,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+127,I want to change my 8 AM alarm to 9 AM.,0,11,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.247,0.134,0.619
+128,Set alarm for 10 am on January. 10 2022,0,9,2,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0.231,0.0,0.769
+129,set an alarm,0,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.545,0.0,0.455
+130,Cancel my 6 am alarm for all monday starting tomorrow,0,10,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.386,0.0,0.614
+131,hey google set a alarm for 5 am,0,8,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0.324,0.0,0.676
+132,please set an alarm for 5 am,0,7,1,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0.276,0.264,0.46
+133,Set the alarm every two minutes after 7am,0,8,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0.255,0.0,0.745
+134,set alaram at 3pm to take my medicicne,0,8,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+135,Turn off the alarm for 9am,0,6,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0.324,0.0,0.676
+136,i need you to set an alarm for 8am tomorrow,0,10,1,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,0.231,0.0,0.769
+137,ring at 7am,0,3,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+138,Set an alarm for every Sunday at 10 am.,0,9,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0.231,0.0,0.769
+139,set alarm for 10pm and title go to bed,0,9,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0.231,0.0,0.769
+140,Cancel the alarm for tomorrow morning.,0,6,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.524,0.0,0.476
+141,please create a new alarm for me,1,7,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0.245,0.449,0.306
+142,Snooze the morning alarm twice,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.375,0.0,0.625
+143,cancle tuesdays 9pm alam,0,4,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+144,Set the alarm for 7:05 pm.,0,6,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0.324,0.0,0.676
+145,create alarm,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.533,0.467,0.0
+146,canel alaram at 2pm,0,4,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+147,Change my 9am alarm's tone and volume,0,8,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+148,create one more alarm 7pm,0,5,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0.346,0.269,0.385
+149,Cancel alarms for 6 am,0,5,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0.672,0.0,0.328
+150,create the alarm 3 pm and 5 pm,0,8,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0.282,0.247,0.471
+151,Dismiss all alarms set on device,0,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.296,0.0,0.704
+152,set alarm to 9 pm to wake me up,0,9,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.255,0.0,0.745
+153,"Alexa, set an alarm for 6:30 AM",0,7,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.286,0.0,0.714
+154,Change my 7am alarm to 8am.,0,6,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.324,0.0,0.676
+155,Wake me up at 7 am please.,1,7,1,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0.0,0.315,0.685
+156,set alarms for every 15 minutes starting at 9am,0,9,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0.208,0.0,0.792
+157,Can you please set an alarm for me for Friday at 8 a.m.?,1,13,1,0,0,0,0,1,0,0,0,0,0,1,0,1,1,0,0.163,0.156,0.68
+158,set my alarm for quarter after six tomorrow,0,8,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.255,0.0,0.745
+159,MODIFY MY 5:30 AM ALARM,0,5,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.439,0.0,0.561
+160,hey google set the alarm for 3 am,0,8,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0.286,0.0,0.714
+161,CALCEL MY 6:30 AM ALARM.,0,5,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0.439,0.0,0.561
+162,Set my alarm for 15 minute intervals between from 6am to 7am,0,12,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.179,0.0,0.821
+163,Please mute my alarm for 10 more minutes.,1,8,1,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0.224,0.215,0.561
+164,set an alarm for 5 pm,0,6,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0.375,0.0,0.625
+165,cancle the alarm every two minutes after 7am,0,8,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.255,0.0,0.745
+166,Turn off all alarms,0,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.412,0.0,0.588
+167,Cancel my 10am alarm quick.,0,5,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.595,0.0,0.405
+168,9 am alarm please,1,4,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0.421,0.404,0.175
+169,Cancel alarm my 1 pm alarm for tomorrow,0,8,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.63,0.0,0.37
+170,Cancel my alarm at 7:30am,0,5,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.595,0.0,0.405
+171,Set my alarm at 6 am every monday starting October 11th,0,11,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.211,0.0,0.789
+172,"Alexa, set a repeating 6 AM alarm to 60s music",0,10,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.255,0.0,0.745
+173,Shut off all alarms,0,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.412,0.0,0.588
+174,Change Tuesday alarm from 07:00 to 08:00,0,7,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0.286,0.0,0.714
+175,Snooze,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+176,Create alarms for 1 pm,0,5,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0.339,0.339,0.323
+177,Cancel my 10am alarm asap.,0,5,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.595,0.0,0.405
+178,Set my alarm for 6 am tomorrow.,0,7,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.324,0.0,0.676
+179,Cancel my 10am alarm now.,0,5,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.595,0.0,0.405
+180,Cancel my 6 am alarm tomorrow.,0,6,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.595,0.0,0.405
+181,Snooze the alarm,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.545,0.0,0.455
+182,Delete my alarm for Saturday.,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.375,0.0,0.625
+183,Alarm pause for 7 minutes.,0,5,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.444,0.0,0.556
+184,Set alarm everyday at 8 am,0,6,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0.375,0.0,0.625
+185,What alarms do I have set currently?,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0.296,0.0,0.704
+186,set an alarm for every day at 2 PM,0,9,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0.255,0.0,0.745
+187,hey google cancel the 4 am alarm,0,7,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0.524,0.0,0.476
+188,assist me by setting my alarm for 9:00 and another for 11:00,0,12,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.179,0.0,0.821
+189,Please set an alarm to wake up at 8am every weekday.,1,11,1,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0.175,0.168,0.657
+190,Set an alarm for 7:45pm and 9:45pm,0,7,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0.286,0.0,0.714
+191,Cancel my 10am alarm,0,4,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.688,0.0,0.312
+192,could you set one alarm for 8am saturday and one for 9am sunday,1,13,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0.167,0.0,0.833
+193,Make my morning alarm 20 minutes early tomorrow.,0,8,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.255,0.0,0.745
+194,Change the alarm from 6 am to 6 30 am tomorrow.,0,11,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0.231,0.0,0.769
+195,Set alarm tommorow morning at 7am,0,6,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0.324,0.0,0.676
+196,Change the sound of the alarm to a bird chirping,0,10,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.231,0.0,0.769
+197,Set alarm for 6 am tomorrow,0,6,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0.375,0.0,0.625
+198,Turn off all my alarms starting now.,0,7,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.259,0.0,0.741
+199,need to change the volume of alaram set at 3pm,0,10,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+200,What alarms do I have set?,0,6,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0.344,0.0,0.656
+201,is it good to eat fast food?,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0.326,0.674
+202,Is chocolate safe?,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.592,0.408
+203,is mango healthy?,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.574,0.426
+204,How many calories are in a glass of milk?,0,9,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+205,Is ice cream sandwich good for you,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0.326,0.674
+206,is diet is good,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.492,0.508
+207,How many calories are in Sprite?,0,6,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+208,Is notdiet soda healty?,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+209,How many calories does an apple have?,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+210,can you tell me the nutritional content of chicken nuggets,1,10,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.0,1.0
+211,What food contains healthy fat?,0,5,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.403,0.597
+212,How much calcium is in coconut milk?,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+213,What is the nutritional value of a hard boiled egg?,0,10,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13,0.222,0.648
+214,what sort of nutrients does a steak have,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+215,What are the nutritional values of pork?,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.31,0.69
+216,what is the calorific value of paneer?,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.286,0.714
+217,What is the nutritional value of beef?,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.286,0.714
+218,What is the carb count of corn,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+219,What is the nutritional value of green peas?,0,8,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.255,0.745
+220,Is monosodium glutamate safe?,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.492,0.508
+221,How much salt is in seaweed?,0,6,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+222,is pizza healthy,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.574,0.426
+223,How many calories should I eat a day with my lifestyle?,1,11,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.0,1.0
+224,How many calories are in burger?,0,6,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+225,How many daily ounces of red wine is healthy?,0,9,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.252,0.748
+226,Is diet soda healthier than regular soda?,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+227,what are the nutrition facts for a rodeo cheese burger at burger king,0,13,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+228,what is the protein content in a banana,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+229,How many calories in a coke drink?,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+230,Is lipton tea healthy?,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.474,0.526
+231,How many calories should I eat in a day?,1,9,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.0,1.0
+232,how many calories are in banana smoothie?,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+233,Which food contains complex carb?,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+234,What is my daily calorie intake should be if I want to lose weight?,1,14,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0.18,0.087,0.733
+235,What should I eat in the breakfast?,1,7,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.0,1.0
+236,What is monk fruit sugar,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+237,What is the nutritional value of lean beef?,0,8,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.255,0.745
+238,How many calories are in mountain dew?,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+239,How many calories are in pepsi ?,0,6,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+240,How many grams of protein are in a chicken breast?,0,10,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+241,please fill me in on the nutrition facts for shrimp scampi,1,11,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0.0,0.187,0.813
+242,Is plant-based milk healthier than cow milk?,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+243,How many calories are in 12 oz. can of Sprite?,0,10,2,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+244,How nutritious is yogurt?,0,4,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+245,Is diet soda was not healthy,0,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.311,0.0,0.689
+246,How many calories are in soda,0,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+247,What is the alternative for cane sugar,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+248,Could you tell me the nutritional value of diet coke?,1,10,1,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0.0,0.211,0.789
+249,How many calories in dairy milk?,0,6,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+250,i must know the nutritional info for grapes,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+251,share the nutrition info for french fries with me,0,9,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.216,0.784
+252,How much fiber does a slice of wheat bread have?,0,10,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+253,Nutritional value of fish,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.444,0.556
+254,How much sodium is in this pizza?,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+255,What is stevia,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+256,What is the nutritional value of a Big Mac at McDonald's?,0,12,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.211,0.789
+257,How many should I eat if I want to lose weight?,1,11,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0.245,0.118,0.636
+258,Does a piece of bread have more calories than a tortilla?,0,11,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+259,"i'd like to know the nutritional content of eggs, please",1,11,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0.0,0.375,0.625
+260,What is my weekly diet plan ?,0,6,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+261,What is the nutritional value of beef better?,0,8,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.469,0.531
+262,Is cholesterol bad for you?,1,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.467,0.0,0.533
+263,How many calories are in coca nuts?,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.277,0.0,0.723
+264,What is the sugar content of Sprite,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+265,How many calories does an egg have?,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+266,What is the nutritional value of red wine,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.255,0.745
+267,Which food dont have carbohydrates?,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+268,do pizza causes cholesterol,0,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+269,How many calories are in coca-cola loss?,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.277,0.0,0.723
+270,Is lot of calorie in cake?,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+271,What junk foods are good for you?,1,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0.326,0.674
+272,How many steps should I walk a day?,1,8,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.0,1.0
+273,Is there such a thing as anti-oxidents?,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+274,How many added grams of sugar are in a Snickers bar?,0,11,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+275,what is the most nutritional ice cream brand,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+276,is maca healthy?,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.574,0.426
+277,Is strawberry jelly healthy?,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.474,0.526
+278,How much sugar is in diet coke?,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+279,can you remember the nutritional info for macaroni and cheese,1,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0.0,1.0
+280,How many grams of sugar should I eat a day?,1,10,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.0,1.0
+281,How many calories are in an apple?,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+282,share the nutrition info for cake with me,1,8,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.239,0.761
+283,What does the term organic mean in food packaging?,0,9,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+284,How many calories are in Apple.,0,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+285,Is stevia an artificial sweetener?,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+286,how much fat is in a potato,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+287,how long does it takes for beef to digest?,0,9,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0.0,1.0
+288,How many calories are in Dr. Pepper?,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+289,What is the healthiest diet for this year?,0,8,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+290,Are raisins healthy fir you?,1,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0.403,0.597
+291,What are good sources of protein for a vegetarian?,0,9,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.293,0.707
+292,How much calories is in 250 grams of grapes?,0,9,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+293,How many calories are in coca-cola?,0,6,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+294,Are mushrooms a good source of protein?,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.367,0.633
+295,Which meat is the healthiest?,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+296,what is the nutritional value of chicken,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.286,0.714
+297,What is the nutritional value of spinach?,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.286,0.714
+298,Is the potatoes chips healthy?,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.403,0.597
+299,How many calories in a fruit snack?,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+300,How much sugar does a pear have?,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+301,Name all of the songs of Hall & Oates.,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+302,List all the albums by Stevie Wonder,0,7,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+303,Cliff richard's hits in 70s,0,6,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+304,What is Mos Def’s most recent album called?,0,10,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+305,What is the most popular song in Russia in 2019?,0,10,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0.0,0.256,0.744
+306,Albums by taylor swift,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.375,0.625
+307,How long is Queen's Bohemian Rhapsody?,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+308,Can you tell me what the most recent Willie Nelson CD is called,0,13,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.0,1.0
+309,What year did Kanye West’s most recent album come out?,0,12,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+310,What was the first album ever made by Queen,0,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+311,Songs by michael jackson from the 2000s,0,7,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+312,How many albums does Selena Gomez have?,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+313,What singer won the most music awatds?,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.381,0.619
+314,Can you list all of the albums the National has ever recorded?,1,12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0.0,1.0
+315,Who has the most grammys?,0,5,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+316,What is the most popular music streaming service?,0,8,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.306,0.694
+317,What is Britney Spears first album called?,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+318,Can I get some Philip Glass up in here?,0,9,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+319,What year did Nevermind by Nirvana come out?,0,8,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+320,Who played guitar for Van Halen,0,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.324,0.676
+321,What is the top 40 songs of this month?,0,9,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.184,0.816
+322,List all the albums by imagine dragons,0,7,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+323,How many studio albums do The Neptune's have?,0,9,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+324,Which musicians were born on March 20th,0,7,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+325,Show me rock charts,0,4,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+326,How many album has Carrie Underwood released?,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+327,Kid a track listing,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+328,Tell me what the band acronym ELP stands for,0,9,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+329,Can you tell me what the hit songs from the Afghan Whigs in the 90's were?,1,17,1,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0.0,0.0,1.0
+330,Let me listen to Boredom's first album.,0,8,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+331,Songs in the eighties,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+332,Miley Cyrus accolades,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+333,How many number ones did Elvis have?,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.178,0.822
+334,Did Puddle of Mudd release songs in the 90s?,0,9,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+335,Play songs by Cooper Allen.,0,5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.375,0.625
+336,Provide a list of all songs from Electric Light Orchestra,0,10,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+337,Give me top 50 songs of Westlife,0,7,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.231,0.769
+338,Name all the ballads sung by Michael Jackson.,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+339,Recent hits by Ariana Grande,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+340,Play the newest county songs.,0,5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.375,0.625
+341,List live albums by Green Day,0,6,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+342,When the the Beatles last have a top ten HIT?,0,10,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.184,0.816
+343,Play some music I can dance to,0,7,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.324,0.676
+344,Who played guitar for Nirvana,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.375,0.625
+345,Problem by ariana grande,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.474,0.0,0.526
+346,songs by michael jackson from the eighites,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+347,Show me the artist nsync,0,5,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+348,list the biggest eminem hits,0,5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+349,Who played guitar for Guns N Roses,0,7,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.324,0.676
+350,songs by Justin Beiber,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+351,Show me the album parachutes by coldplay,0,7,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+352,Bob Dylan discography,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+353,Who played guitar for Ozzy,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.375,0.625
+354,Pop songs by Nicki Minaj,0,5,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+355,Show me the Led Zeppelin discography.,0,6,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+356,Who had the #1 rock song in 1984?,0,8,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+357,Songs in the last decade,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+358,Songs by Madonna from the eighties,0,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+359,Songs by Michael Jackson From 80's,0,7,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+360,What is Drake's current album?,0,6,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+361,How many cds were number one for taylor Swift?,0,9,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.307,0.693
+362,How many studio albums have Guns N Roses released?,0,9,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+363,Music for relaxation please!,1,4,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0.0,0.75,0.25
+364,List all the albums by Moss Deff,0,7,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+365,I want to see Lou Reed's discography.,0,8,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.206,0.794
+366,Play some good music,0,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.726,0.274
+367,How many songs are on Taylor Swifts first album?,0,9,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+368,albums by MF Doom,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.474,0.0,0.526
+369,songs by celine dion,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+370,What is the highest award to win as a singing artist?,0,11,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.477,0.523
+371,What's the latest album released by Arcade Fire?,0,9,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.255,0.0,0.745
+372,Songs in the nineties,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+373,Collaborations with Bishop Briggs,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+374,list latest album by infected mushroom,0,6,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.39,0.0,0.61
+375,When was Madonna's first number one?,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.206,0.794
+376,Who had the number one hit in 1990?,0,8,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.157,0.843
+377,Latest songs by Donna Missal,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+378,What are the number 1 hits of the Beatles?,0,9,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.157,0.843
+379,Play songs by Kane Brown,0,5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.375,0.625
+380,Albums by Taylor Shift,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+381,when was the last michael jackson album recorded?,0,8,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+382,Albums by Rihanna,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+383,All the hits by The beatles in 70's,0,9,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+384,List out all of Audioslave's albums.,0,7,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+385,Popular albums of The Beatles,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.412,0.588
+386,List all the Justin Bieber songs,0,6,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+387,List all albums by K Flay,0,6,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+388,Who sung lost in the trill of it all?,0,9,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0.223,0.0,0.777
+389,Playlist of 90s chillout hits,0,5,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+390,list all the albums by coldplay,0,6,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+391,What is the most popular song for Weddings?,0,8,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.306,0.694
+392,What tracks are new this week,0,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+393,songs in seventes,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+394,Show me the best album art of all time.,0,9,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.344,0.656
+395,List all albums by LP,0,5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+396,List all the albums by Joe Budden,0,7,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+397,What do you feel is the best song you've ever released and why?,0,14,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0.259,0.741
+398,Tell me the all time top songs performed by Soundgarden.,1,10,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.167,0.833
+399,First album by Pigeons Playing Ping Pong,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.231,0.769
+400,list of songs in eighties,0,5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+401,Define love,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.808,0.192
+601,i need reviews for places serving tacos in chicago,0,9,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+602,give me restaurant reccomendations,0,4,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+603,"in boston, what are the best pizza places",0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.375,0.625
+604,could you direct me to any good places in kentucky that serve sushi,1,13,1,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0.0,0.195,0.805
+605,any ideas on a good place to eat out,0,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.293,0.707
+606,what decent restaurants around here are italian,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+607,what's a good restaurant nearby,0,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.492,0.508
+608,are there any decent places to get seafood in seattle,0,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+609,are there any vegan restaurants in my town,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+610,what are some good ethiopian restaurants in queens,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.293,0.707
+611,where should we eat tonight?,1,5,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.0,1.0
+612,is there any good place in hawaii for pasta?,0,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.266,0.734
+613,please give me the name of a few good options for places to eat dinner tonight,1,16,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0.0,0.286,0.714
+614,i need some suggestions for dinner places tonight,0,8,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+615,do you know of any good restaurants?,1,7,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0.326,0.674
+616,"can you suggest a thai restaurant, please?",1,7,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0.0,0.315,0.685
+617,can you recommend any restaurants?,1,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0.385,0.615
+618,what's the food can easily get in canada?,0,9,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.255,0.745
+619,find an indian restaurant,0,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+620,do you know of any good mexican restaurants in seattle?,1,10,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0.244,0.756
+621,what are good places for a burrito in albuquerque?,0,9,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.293,0.707
+622,tell me some good mexican restaurants in dallas,0,8,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.293,0.707
+623,i need suggestions for good thai restaurants in las vegas,0,10,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.266,0.734
+624,can you find me some good places in kentucky that serve sushi?,1,12,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.209,0.791
+625,what's your recommendation for dining out tonight?,1,8,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0.0,1.0
+626,what restaurants are pet friendly near here?,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.348,0.652
+627,is there any good place for mexican food in hawaii?,0,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.244,0.756
+628,what are good restaurants in reno that serve sushi?,0,9,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.266,0.734
+629,i would love to find a few vegan restaurants in back bay,1,12,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.318,0.682
+630,could you locate me some good places in kentucky that serve sushi?,1,12,1,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0.0,0.209,0.791
+631,are there are any good places in washington that serve cheese pizza?,0,12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.209,0.791
+632,what's the best place for some thai in new york city,0,12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.296,0.704
+633,where do you want to eat tonight,0,7,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0.178,0.822
+634,its date night and we cant decide where to go help,1,11,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0.0,0.213,0.787
+635,is there a barbecue restaurant around here,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+636,is there any good place in hawaii kai that serve local food,0,12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.209,0.791
+637,what are some good mexican restaurants in indianapolis,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.293,0.707
+638,"i'm not going to cook today, can you suggest a restaurant",1,12,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.0,1.0
+639,tell me where to go since i want to eat out tonight,1,12,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.115,0.885
+640,are there any good restaurants in nyc that serve barbecue,0,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.244,0.756
+641,are there any good chinese restaurants open right now,0,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.266,0.734
+642,what are some good southern bbq restaurants in nashville,0,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.266,0.734
+643,where should i eat,1,4,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.0,1.0
+644,recommendations for good thai restaurants in las vegas,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.293,0.707
+645,suggest a few local eateries in mid price range,0,9,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+646,is there a good fish place in salem,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.326,0.674
+647,does kentucky have any good restaurants that serve sushi,0,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.266,0.734
+648,list me some good vietnamese restaurants in new york city,0,10,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.244,0.756
+649,what are some good places to eat at,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.293,0.707
+650,can you find a good steakhouse for tonight,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0.326,0.674
+651,where do people go to eat in this town,0,9,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+652,can you find a keto friendly restaurant,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0.39,0.61
+653,"i'm in the mood for italian, are there any good places around",1,13,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.209,0.791
+654,can i get good tacos anywhere in austin,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.326,0.674
+655,what are some good places to go out for dinner in my area tonight,0,14,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.182,0.818
+656,list a few pizza places that have seating near my current location,0,12,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+657,what are the best places to get shrimp in chicago,0,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.318,0.682
+658,tell me which restaurants are good for thai food in las vegas,0,12,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.209,0.791
+659,where should i eat tonight,1,5,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.0,1.0
+660,i'm famished so give me some places to eat!,0,10,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+661,can you search recommended casual restaurants for tonight in philadelphia,1,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0.31,0.69
+662,"could you suggest a french restaurant, please",1,7,1,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0.0,0.315,0.685
+663,do you know of any good seafood restaurants in seattle,0,10,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0.244,0.756
+664,what mexican restaurant within 5 miles has the best reviews,0,10,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.344,0.656
+665,are there decent seafood restaurants in portland,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+666,is there any good place for vietnamese food on the east side of the island,0,15,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.172,0.828
+667,i want recommendations for good sushi spots in los angeles,0,10,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.375,0.625
+668,help me find a good sushi spot in chicago,0,9,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.483,0.517
+669,any fantastic restaurants to get shrimp at in atlanta,0,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.31,0.69
+670,show me 5-star dining establishments in nashville,0,7,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+671,where are some good thai restaurants in las vegas,0,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.266,0.734
+672,can you recommend an indian restaurant,0,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0.333,0.667
+673,i want you to recommend a good local restaurant to me,0,11,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.528,0.472
+674,what are the best sushi restaurants in reno,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.375,0.625
+675,can you suggest some quality chinese restaurants in oklahoma city,0,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0.0,1.0
+676,"suggest a restaurant for me to eat tonight, please",1,9,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0.0,0.247,0.753
+677,where can i pick up a good burger near where i am,0,12,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.266,0.734
+678,i need a list of good places to eat near me,0,11,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.266,0.734
+679,what type of restaurants are nearby,0,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+680,can you list off 4 star restaurants,1,7,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0.0,0.0,1.0
+681,can you find me a good restaurant to try eating at,1,11,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.244,0.756
+682,can you tell me the best place for cajun shrimp in tampa,1,12,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.276,0.724
+683,what are the best italian restaurants in chicago,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.375,0.625
+684,i need to know what restaurants are near me,0,9,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+685,find me an asian restaurant,0,5,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+686,give me a list of places that serve the best wings in charlotte,0,13,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.276,0.724
+687,are there good clam places in cleveland,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.326,0.674
+688,where would you eat italian in chicago,0,7,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0.0,0.0,1.0
+689,can you list off different restaurants,0,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0.0,1.0
+690,can you suggest a thai restaurant,0,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0.0,1.0
+691,what are some good itialian restaurants in north salem,0,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.266,0.734
+692,do you know any good restaurants good for kids,0,9,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0.453,0.547
+693,what are some good places in kentucky that serve sushi,0,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.244,0.756
+694,what are some good sushi restaurants in reno,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.293,0.707
+695,where can i go to eat,0,6,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+696,"i'm hungry, where should i go",1,7,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.0,1.0
+697,do you have any restaurant recommendations,0,6,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0.0,1.0
+698,does cleveland have any good places that serve clams,0,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.266,0.734
+699,please find me some good thai restaurants in new york city,1,11,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0.0,0.366,0.634
+700,"i want to go out to eat but have no idea where to go, do you know of any places",1,20,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0.134,0.055,0.811
+701,What is eight squared?,0,4,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+702,What is Pi to two decimal places?,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+703,Multiply 9 times 5,0,4,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+704,What is four plus eight?,0,5,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+705,What is five minus one,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+706,How many cups are in a gallon?,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+707,What is nine cubed?,0,4,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+708,What is the cube root of 565?,0,7,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+709,Add the fractions one fifth and seven tenths?,0,8,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+710,What is 100 minus 5?,0,5,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+711,what is five plus two,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+712,What is five Multiple Two,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+713,What is fifty plus ninety-seven?,0,5,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+714,Add 456 to the sun of 6689 and 5321,0,9,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+715,What is the answer when I add 380 and 14?,0,10,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+716,What is square root of one hundred and twenty five?,0,10,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+717,How much is eight times one thousand and thirty one?,0,10,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+718,Can you tell me the outcome of two plus two?,1,10,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.0,1.0
+719,Ruth Beechick mentioned in “An Easy Start in Arithmetic” that children grow through 3 modes of thinking about arithmetic.,1,21,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.146,0.854
+720,Divide ten by two,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+721,What is 5 times 150?,0,5,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+722,What is two plus three,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+723,calculate twelve percent of five hundred and divide by four,0,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+724,What is the square root of 90?,0,7,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+725,What is four divided by two?,0,6,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+726,what is percentage of five hundred and divided by five,0,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+727,What is 5 factorial?,0,4,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+728,Tell me what four plus one thousand divided by twelve is.,0,11,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+729,Can you calculate 6 times 3 divide 2,0,8,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0.0,0.0,1.0
+730,What is seven minus two,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+731,Multiply 64 by 67,0,4,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+732,What is the cubic root of fifty seven,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+733,What is fifty plus ten?,0,5,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+734,What would the square root of 3600 be?,1,8,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0.0,0.0,1.0
+735,"The continuous historical development of modern arithmetic starts with the Hellenistic civilization of ancient Greece, although it originated much later ... Videos",1,22,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0.0,0.0,1.0
+736,What is the sum of adding all the angles of a triangle?,0,12,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+737,what is the L.C.M of largest 4 digit number,0,9,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.157,0.843
+738,What is the value of two plus three,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.255,0.745
+739,"If 3z=9, what is z?",0,5,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+740,What is the approximate value of PI?,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.286,0.714
+741,What do you get when you divide six by two?,0,10,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0.0,1.0
+742,Calculate the square of four.,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+743,Calculate twelve percent of four hundred and divide by four,0,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+744,Add 6005 + 3200+ 8500.,0,4,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+745,From 768653689 take 34279,0,4,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+746,"If y/2=5, what is y?",0,5,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+747,What are the first five prime numbers?,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+748,How do I calculate cubic feet?,0,6,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+749,what is three times three?,0,5,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+750,What is 20 percent of 50?,0,6,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+751,Solve 16 times 2 divided by 4.,0,7,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.265,0.735
+752,What is 95 divided by 11?,0,6,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+753,What is the difference of five and 11,0,8,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+754,Divide 560987by 34 and give the answer to 2 decimal places,0,11,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+755,whats sixteen divided by four,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+756,Please give me the output of two plus two.,1,9,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0.0,0.223,0.777
+757,what is the average of the first 10 even numers,0,10,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+758,what is two plus two?,0,5,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+759,what is the square root of 64,0,7,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+760,If you add three to four what is the outcome?,0,10,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0.0,1.0
+761,What is the result of 6 times 5,0,8,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+762,What is two plus two,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+763,What is eight divided by two?,0,6,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+764,what is fifty two minus twenty one,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+765,Can you please divide 30 by 15?,1,7,1,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0.0,0.277,0.723
+766,Calculate fourteen divided by ten.,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+767,how many digit for thousand,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+768,What is 100 divided by 3?,0,6,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+769,How do I calculate the square root of a number?,0,10,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.157,0.843
+770,two will go in to four how many times ?,0,9,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+771,what is the square root of 49,0,7,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+772,What is the Cubic of Thirty five,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+773,What is 40 to the power of 0.1,0,8,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+774,What is an exponent?,0,4,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+775,what is the cube root of 27,0,7,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+776,What is sixty eight plus ninety three,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+777,What is six divided by two?,0,6,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+778,"A function pointer to a driver specific implementation of Timer_start(). More... typedef void(*, Timer_StopFxn) (Timer_Handle handle). A function pointer to a ...",1,23,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+779,how to you calculate the square root of v,0,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0.0,1.0
+780,What is 40 percent of 60 percent of one tenth of 50,0,12,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+781,how many ounces are in a cup?,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+782,Divide 300 by 5 please.,1,5,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0.0,0.434,0.566
+783,what is the value for root five,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.286,0.714
+784,What percent of 50 is 15,0,6,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+785,What is the root of nine?,0,6,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+786,What is 3500 times 1200?,0,5,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+787,What is the cubic root of twenty seven,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+788,What is the ten times multiplication of two hundred and seventy five,0,12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+789,What is the cubic root of twenty eight,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+790,When three is added to two what is the output?,0,10,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+791,Calculate 15 percent of one hundred,0,6,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+792,What is two divided by two?,0,6,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+793,What is the cubic root of sixty four,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+794,What is the square root of ten?,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+795,What is the cubic root of two thousand,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+796,How much is three times three times five?,0,8,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+797,"what is the H.C.F of 2, 8, 10, 20",0,9,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+798,"If x+2=10, what is x?",0,5,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+799,What is the cube root of 9967,0,7,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+800,What is 1800 + 2800?,0,4,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+801,how much is pounds to dollars,0,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+802,How many GBP is 1000 CAD?,0,6,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+803,Convert Bahamian dollar to pounds,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+804,Does 90 yen equal 85 dollars?,0,6,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+805,Please convert $100 to Russian ruble and $50 to French franc,1,11,1,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0.0,0.187,0.813
+806,How many Australian dollars are in 80 US dollars?,0,9,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+807,"500 Canadian to pesos, tell me the conversion rate",0,9,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+808,How many Australian dollars can I get for 500 U.S. dollars?,0,11,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+809,convert 600 yen to dinar,0,5,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+810,How much is USD $100 in CAD?,0,7,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+811,Change $100 to NT,0,4,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+812,What's the exchange rate for Euros to US dollars,0,10,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+813,What is the current conversion between USD and Euro?,0,9,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+814,How much is 20 Korean won in USD?,0,8,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0.0,0.346,0.654
+815,5000 US in TT,0,4,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+816,Convert $100 to Japanese yen and NT dollars.,0,8,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+817,500 US in GYD,0,4,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+818,CAD to USD,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+819,convert 1000 dollars to pounds,0,5,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+820,Convert $200 to yen fast.,0,5,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+821,convert $500 to dinar,0,4,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+822,What is today's exchange rate for German mark to US?,0,11,1,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+823,Convert 100 US dollars to yen.,0,6,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+824,What is the exchange rate for Euro to Swiss Franc?,0,10,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+825,What's the exchange rate for French francs to US dollars?,0,11,1,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+826,How do I convert US dollars into gold?,0,8,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+827,Convert $300 to South African Rand.,0,6,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+828,What's the exchange rate for US dollars to pounds?,0,10,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+829,What is the exchange rate for Euros to dollars?,0,9,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+830,how many canadian dollars can i get for 50 euros.,0,10,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+831,"what is 10,000 Canadian worth in Mexico right now?",0,9,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0.0,0.192,0.808
+832,Convert $200 to yen ASAP.,0,5,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+833,Convert $50 to GBP,0,4,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+834,Convert $1000 USD to Euro?,0,5,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+835,What's the exchange rate between US dollars and Lebanese pounds?,0,11,1,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+836,How to convert US dollars to Yens,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+837,convert 2000 USD to GYD,0,5,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+838,What is the exchange rate level for Canadian Dollars to US dollars,0,12,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+839,WHAT'S THE EXCHANGE RATE OF INR TO YEN?,0,9,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+840,What's the difference between 60 British pounds to 60 US dollars,0,12,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+841,how much will i get in naira from 1000 dollars,0,10,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+842,What is the going conversion rate for British pounds to American dollars?,0,12,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+843,convert 1000 rupees to dollars,0,5,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+844,How much is 900 dollars in Euros?,0,7,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+845,What is the ratio for Euros and USD?,0,8,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+846,Is the exchange rate variable based on the condition of my physical currency?,0,13,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+847,Convert 100 pounds to dollars,0,5,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+848,What is U.S. dollar in pesos?,0,6,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+849,Convert $200£ to USD.,0,4,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+850,convert 500 pounds to dollars,0,5,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+851,how many ruppees will i get for 500 dollars,0,9,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+852,What is the current conversion between USD and GBP?,0,9,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+853,How many pesos will I get for 100 Euro?,0,9,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+854,I would like to convert 700 Mexican pesos to Euros,1,10,1,0,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0.0,0.238,0.762
+855,I need to exchange my 500 euros to Canada please,0,10,1,0,0,1,1,1,0,0,0,0,0,1,0,1,0,0,0.0,0.223,0.777
+856,Convert $100 to francs,0,4,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+857,How many Mexican pesos will I receive for converting 100 US dollars?,0,12,1,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+858,What's the exchange rate for New Zealand Dollar.to US dollars?,0,11,1,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+859,convert 100euros to naira,0,4,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+860,"What's the exchange rate for US dollars, Japanese yen, and NT dollars?",0,13,1,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+861,How much is 14 Euros in USD?,0,7,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+862,How much is a Swedish krona today?,0,7,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+863,convert 100 dollars to ruppes,0,5,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+864,Convert $200 to yen,0,4,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+865,convert $600 to rupees,0,4,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+866,How much can I get in Yen for 20 USD?,0,10,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+867,exchange my 500 Canadian to American dollars,0,7,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+868,CONVERT $100 TO POUND.,0,4,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+869,What is the American and Canadian exhange rate?,0,8,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+870,What's the exchange rate for Canadian dollars to US dollars?,0,11,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+871,convert 500 dollars to INR.,0,5,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+872,Convert 10000 yens to USD,0,5,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+873,How many Euros is 37 dollars?,0,6,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+874,Convert $1250 to Euro.,0,4,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+875,Convert 250 Euro to US dollars,0,6,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+876,Convert US dollars Australian dollars?,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+877,What is U.S. dollar in yen?,0,6,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+878,What is the exchange rate for Yen to US dollars?,0,10,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+879,How much will I get in USD with 23000000 VND?,0,10,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+880,What's the American equivalent of 300 Korean Won?,0,9,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0.0,0.346,0.654
+881,trade in my 5000 pesos to British pounds,0,8,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+882,What's the exchange rate for Mexican pesos to US dollars?,0,11,1,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+883,What is the exchange rate for US dollars to Pounds?,0,10,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+884,How much is 2 million Jamaican dollars in American dollars?,0,10,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+885,Convert 200 Australian Dollars to US dollars?,0,7,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+886,WHAT'S THE EXCHANGE RATE FOR INR TO POUND?,0,9,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+887,How much do I have in US dollars if I have 2000 NT dollars?,0,14,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+888,How much will I get for 1000 Euro?,0,8,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+889,What is the exchange rate for converting Euros to US dollars?,0,11,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+890,Convert 1000 Euros to pounds.,0,5,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+891,What's the Canadian Dollar at right now?,0,8,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+892,How much does $100 USD worth in KRW?,0,8,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.213,0.787
+893,the conversion of 1000 rupees to dollars is 13.26,0,9,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+894,convert 25 usd into swiss francs,0,6,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+895,How much can I exchange 19 USD dollars for Canadian collars?,0,11,1,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+896,Convert 100 Euro to yen,0,5,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+897,Convert 10 Mexican Pesos to Yen,0,6,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+898,Convert $200 to yen very fast.,0,6,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+899,What is the equation from dollars to pounds?,0,8,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0

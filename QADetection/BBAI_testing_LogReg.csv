@@ -1,0 +1,201 @@
+turn,words,sentences,simple_quest,whq,imper_quest,places,sensitive_data,relatives,first_names,conditional_vb,gratitude,thanksgiving,excuses,greetings,self_references,you_references,neutral_references,neg,pos,neu,output
+what are the things that i wanted to keep in mind,11,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+what stuff am i trying to remember,7,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+what were the reminders that i made,7,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+read all my reminders,4,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+what is it i wanted to bear in mind,9,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0.0,0.0,1.0,0
+what are my reminders,4,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+what items did i want to remember,7,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.206,0.794,0
+please go through my reminder list and tell me what's on it,13,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0.0,0.173,0.827,1
+can you describe my list back to me,8,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.0,1.0,1
+can you read me my list of reminders,8,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.0,1.0,1
+is respond to the professor's email on my list of reminders,12,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+read my reminder list,4,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+is grocery shopping on my reminders list,7,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+what were those things i was trying to remember,9,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+my list of reminders contains what,6,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+can you tell me what things i was trying to remember,11,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.0,1.0,1
+what did i list in my reminders,7,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+is buying a light bulb on my reminders list,9,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+do you know what things i wanted to remember,9,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.0,1.0,1
+is checking the mail on my list of reminder,9,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+i need to know what it is that i wanted to remember before,13,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0.0,0.0,1.0,0
+can you tell me what reminders i've set,9,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.0,1.0,1
+go through all the reminders on my list and state what they are,13,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+my list of reminders is what,6,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+walk me through the items on my reminder list,9,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+please give me a rundown of my reminder list,9,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0.0,0.247,0.753,1
+what did i ask you to remind me of,9,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.0,1.0,1
+what did i want to remember,6,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.245,0.755,0
+do i have anything in my reminders,7,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+please look to see if paying bills is on my reminders list currently,13,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0.0,0.161,0.839,1
+did i tell you to remind me about laundry,9,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.0,1.0,1
+will you repeat my reminder list,6,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.0,1.0,1
+"i wanted to remember somethings, what was it",8,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0.0,0.0,1.0,0
+what did i include on my list of things to remember,11,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+tell my all my reminders,5,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+please go though the bullet points on my reminder list,10,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0.0,0.204,0.796,1
+"i wanted to remember some things, what were they",9,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+"can you read my reminder list, please",7,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0.0,0.277,0.723,1
+i had a list of reminders what were they,9,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+can you remind me the things i was trying to remember,11,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.0,1.0,1
+read back the reminder list,5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+what were those things i wanted to remember,8,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+did i include cleaning the hamster cage on my list of reminders,12,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+let me see the reminder list please,7,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0.0,0.277,0.723,1
+give me my reminders,4,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+is there a reminder for my aa meeting on my list,11,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+what are the thing i told you to help me remember,11,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.231,0.769,1
+read my reminder list to me please,7,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0.0,0.277,0.723,1
+what is now on my reminder list,7,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+tell me what i had wanted to remember earlier,9,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+check my reminders for mop the floor,7,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+on my list of reminders is what,7,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+iterate the items on my reminder list,7,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+tell me if flipping the mattress is on my list of reminders please,13,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0.0,0.161,0.839,1
+speak back to me what's on my reminder list,10,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+i want you to read my reminder list to me,10,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.14,0.86,1
+i need to know the content of my list of reminders,11,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+what's on the reminder list,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+read my reminders to me,5,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+what does my running list of stuff to do list,10,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+read my reminder list back to me,7,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+is mop the floor already in my reminders,8,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+can you tell me the reminders i have set up,10,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.0,1.0,1
+what were the things i want to recall,8,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.178,0.822,0
+what are in my reminders list,6,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+what were you supposed to remind me of,8,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.0,1.0,1
+what's on my reminder list today,7,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+is there a reminder set to clean the gutters,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.278,0.722,0
+did i add to my reminder list that i need to take the car in for an oil change,19,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,1
+is my meeting with frank on my list of reminders,10,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+please play my list of reminders,6,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0.0,0.54,0.46,1
+check my reminders for mop and floor,7,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+please tell me everything on my list of reminders,9,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0.0,0.223,0.777,1
+can you tell me all the reminders i have set on my reminder list,14,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.0,1.0,1
+can you please remind me of the items that i made note of to not forget,16,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0.0,0.234,0.766,1
+read my reminder list to me,6,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+what is on my to do list,7,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+the lists of my reminders is what,7,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+tell me everything i included on my list of things to remember for later,14,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+what's on my list of things to remember,9,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+"""which things are wanted to remember",7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+i want to hear my reminder list,7,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.206,0.794,0
+read what i added to the reminder list,8,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+refresh my memory about what items i want to remember,10,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.14,0.86,0
+tell me what's on my reminders list please,9,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0.0,0.247,0.753,1
+what do i want to remember,6,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.245,0.755,0
+read my list of reminders,5,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+please read my list of reminders,6,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0.0,0.315,0.685,1
+can you tell me the to do's on my reminder list,12,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.0,1.0,1
+tell me what's on my reminder list,8,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+please read my reminder list,5,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0.0,0.365,0.635,1
+can you repeat my list back to me,8,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.0,1.0,1
+what is on my reminder list,6,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+tell me my reminders,4,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+list my reminders,3,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+can you read my list back to me,8,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.0,1.0,1
+what were the things that i wanted to remember,9,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+what are the things i wanted to recall,8,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+"i'd like to just confirm all of the reminders currently on my list of reminders, please",17,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0.0,0.255,0.745,1
+tell me what is showing up on my reminder list,10,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+What time is Justinn Bieber's show starting?,8,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+when are the patriots playing in foxboro?,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.231,0.769,0
+Please find information about sporting events being held in local stadium in the area next week.,16,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0.0,0.133,0.867,1
+What is going on in Downtown Atlanta?,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+Where will WWE Summer Slam be hosted?,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.302,0.0,0.698,0
+What is the Raven's football schedule?,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+When are the New York Jets playing next week?,9,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.184,0.816,0
+Are there any Brunches happening on Sunday?,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+Search for ballet tickets near me.,6,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+What time is the Milwaukee Brewers game today?,8,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+What Shakespearean festivals are playing in New York this week?,10,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.35,0.65,0
+What movie is Kevin Hart playing in soon?,8,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.205,0.795,0
+What movies are being released this Friday?,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+What concerts are coming up at PNC arena?,8,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+Please look for tickets for Nickelback in Detroit next week.,10,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0.0,0.204,0.796,1
+When is the next carolina panthers game near me?,9,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+What is the next schedule for the sports line up?,10,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+When will John Legend be playing in the state next?,10,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.167,0.833,0
+Find the LA Lakers for next month in Los Angeles.,10,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+Find me a music festival that matches my taste in music,11,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.262,0.738,0
+When is System of A Down playing in Knoxville?,9,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.205,0.795,0
+What show are playing at the Seattle Paramount this Saturday night?,11,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.153,0.847,0
+When is the LCS happening this year and where?,9,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+When does Aretha Franklin perform in Reno?,7,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+where is the location of the party?,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.31,0.69,0
+Where is the nearest cinema showing the new Halloween movie?,10,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+Create a listing of all baseball games within 50 miles of my home address.,14,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.149,0.851,0
+When does Lana Del Rey tour go to Chicago?,9,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+When do the Cleveland Guardians play next?,7,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.286,0.714,0
+How much is the cheapest ticket to see Metallica next week in Charlotte?,13,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+What are some of the popular new releases in the cinema?,11,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.219,0.781,0
+who are the red sox playing tonight?,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.231,0.769,0
+What horror movies are playing in theaters?,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.352,0.171,0.476,0
+When is Gwar playing in Virgina next?,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.231,0.769,0
+search for american next day in new york,8,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+When is the Lady Gaga concert in Chicago?,8,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+What movies are playing at five o'clock tomorrow night?,9,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.184,0.816,0
+any art festivals this week?,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.385,0.615,0
+when is luke combs playing again?,6,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.265,0.735,0
+What time are the Lakers playing today?,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.231,0.769,0
+I'm trying to get tickets for the next home Seawhawks game.,12,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+What comedy acts are playing in the theaters today?,9,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.381,0.619,0
+How much are tickets for the coming Super Bowl?,9,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.328,0.672,0
+When does Metallica come near me?,6,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+Are any theaters open this weekend?,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+what's playing at the movies today?,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.265,0.735,0
+What is the Phish fall tour dates?,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+Can you help me obtain tickets for the LA Lakers game that is this Friday night?,16,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.153,0.847,1
+What's showing at the movies?,6,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+Tickets for Drakes tour in Los Angeles,7,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+whats a good new movie thats out?,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.367,0.633,0
+Are there tickets available in the 200 level for the Chicago Blackhawks game tomorrow?,14,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+When is the next Los Angeles Lakers game?,8,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+When are the Jets playing next at home?,8,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.205,0.795,0
+Who’s performing in my area this weekend?,9,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+Find tickets for St. Louis Cardinals next Wednesday.,8,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+Where can I buy tickets for the NBA finals for tomorrow?,11,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+When will Trampled by Turtles be preforming in Wisconsin?,9,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+Which concerts are playing in my city this weekend?,9,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.184,0.816,0
+Find Alicia Keys in Bethel next week,7,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+Find Alicia Keys in Bethel next week.,7,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+Who is playing the Chicago bulls this weekend?,8,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.205,0.795,0
+What free events are there?,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.452,0.548,0
+What is the next concert playing at the Rialto Theater?,10,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.167,0.833,0
+Find Metallica tickets this month.,5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+I need to know what concert is playing at the Staples Center in LA this Saturday.,16,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.114,0.886,0
+any new films out recently?,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+Search for Chicago Bulls next day in Chicago.,8,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+What Broadway shows are playing in New York this week?,10,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.167,0.833,0
+I need to get tickets to the next WWE event in madison square garden.,14,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+What games are happening next week?,6,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+Are there any stand up comedians showing at the Bushnell this month?,12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.167,0.833,0
+What events are happening this weekend?,6,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+are the giants playing home this weekend?,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.231,0.769,0
+When is the next Adele concert in London,8,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+"new movies playing, is there any?",6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.265,0.735,0
+What new movies are playing?,5,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.31,0.69,0
+Find information about local plays being performed in town this week.,11,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.167,0.833,0
+What theatres are playing Shrek?,5,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.31,0.69,0
+What sporting events are taking place this weekend?,8,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+Where is Sabaton on tour to next?,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+Find Alicia Keys in Bethel next year.,7,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+What's playing at the theater tomorrow?,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.265,0.735,0
+"Find movie tickets Knoxville TN for January 10, 2022",9,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+Search for ballets in Milwaukee,5,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+Are there any good concerts playing in my area this weekend?,11,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.343,0.657,0
+When is the next Lakers game?,6,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+What is playing at the event in Texas?,8,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.205,0.795,0
+Are there any museums open in New York City this weekend?,11,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+Please find Miami Dolphins games next week.,7,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0.0,0.277,0.723,1
+What time is the latest Marvel movie playing tonight?,9,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.397,0.603,0
+what's on Sunday night for 9 pm?,8,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+When is the next ariana grande concert?,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+Are there any fun events going on in New Jersey this weekend?,12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.231,0.769,0
+Red Sox ALCS tickets,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+Please book two passes to Lallapalooza.,6,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0.0,0.315,0.685,0
+Can you tell me where Foo Fighters will be playing in Seattle next week?,14,1,0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0.08,0.12,0.8,1
+find a beyonce concert near me.,6,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+Will the Kansas City Chiefs play at Soldier Field in Chicago this season?,13,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.167,0.833,0
+Lions game tickets next week,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0

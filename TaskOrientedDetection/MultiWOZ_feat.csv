@@ -1,0 +1,701 @@
+dialogue_id,turn,Model,words,sentences,simple_quest,whq,imper_quest,places,sensitive_data,relatives,first_names,conditional_vb,gratitude,thanksgiving,excuses,greetings,self_references,you_references,neutral_references,neg,pos,neu
+MUL0268.json,I need a train to stansted airport that leaves after 21:30. I am also going to be looking for local places to eat.,1,23,2,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+MUL0268.json,"I will take a seat on the 22:08 departure as long as it departs from Cambridge on Friday. Yes, please find a restaurant.",1,23,2,0,0,0,1,1,0,0,0,0,0,1,0,1,0,1,0.0,0.217,0.783
+MUL0268.json,5 people for the train please.,1,6,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0.0,0.365,0.635
+MUL0268.json,Yes I am also looking for a restaurant in the centre of town in the expensive price range.,1,18,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.153,0.847
+MUL0268.json,"Perfect, can you book it for 5 people on the same day at 16:30?",1,14,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0.0,0.236,0.764
+MUL0268.json,Can we try for 15:30? I also need the reference number for the train booking.,1,15,2,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.091,0.909
+MUL0268.json,"That's all, thank you.",1,5,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0.0,0.455,0.545
+MUL0268.json,"Yes, I'm sure. Thanks.",1,5,2,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0.0,0.888,0.112
+SSNG0112.json,I am looking for a place to eat in town centre.,0,11,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+SSNG0112.json,It doesn't matter as long as it is cheap.,0,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.118,0.0,0.882
+SSNG0112.json,I don't care about the cuisine. Would you book a table for 4 people at 16:00 on Wednesday?,1,19,2,0,0,1,0,1,0,0,1,0,0,0,0,1,1,0,0.158,0.0,0.842
+SSNG0112.json,That will be all. Thank you very much for your help.,1,11,2,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0.0,0.366,0.634
+MUL0882.json,"Hi, I'm interested in finding something to do on the north end of town. Are there any boats there that I might be able to visit?",1,27,2,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0.0,0.101,0.899
+MUL0882.json,Yes please. I would like to get the address and postcode for the riverboat.,1,14,2,0,0,1,0,0,0,0,1,0,0,1,0,1,0,0,0.0,0.429,0.571
+MUL0882.json,"Ok, I need a restaurant in the north side that serves chinese as well.",1,14,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.301,0.699
+MUL0882.json,Whichever one would be able to be booked for 4 people at 13:00 on thursday.,1,15,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0.0,0.0,1.0
+MUL0882.json,Thank you. I'll need a taxi to get me to the restaurant.,1,13,2,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0.0,0.2,0.8
+MUL0882.json,"I'd like to be picked up from the Georgina, and please make sure I'm there before my booking at Hakka.",1,22,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0.0,0.295,0.705
+MUL0882.json,That's all I need! Thank you!,1,7,2,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0.0,0.435,0.565
+MUL0882.json,Thank you very much.,1,4,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0.0,0.455,0.545
+PMUL1640.json,I'd be really happy if you could help me locate a place to stay in Cambridge tonight.,1,18,1,0,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0.0,0.323,0.677
+PMUL1640.json,I want an expensive guesthouse with free wifi,0,8,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.479,0.521
+PMUL1640.json,I dont have any preference when it comes to where it is. As long as it is 4 stars,1,19,2,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0.0,0.0,1.0
+PMUL1640.json,Then how about one in the cheap price range?,0,9,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+PMUL1640.json,"Yes, I would. I need 3 nights, 7 people, starting Wednedady. I need the reference number. I also need a train to Cambridge after 14:45.",1,25,4,0,0,1,1,1,0,0,1,0,0,0,0,1,0,0,0.0,0.2,0.8
+PMUL1640.json,Great! Now could you help me book a train from Stevenage going to Cambridge on Wednesday?,1,16,2,0,0,0,1,0,0,0,1,1,0,0,0,1,1,0,0.0,0.353,0.647
+PMUL1640.json,"Yes, no need to book, I just need the travel time.",1,11,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.171,0.209,0.62
+PMUL1640.json,"Thanks, that's everything. This is going to be a great trip!",1,12,2,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0.0,0.477,0.523
+MUL2398.json,I need a place to dine at in the south that serves chinese.,1,13,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+MUL2398.json,Is it in the expensive price range?,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0.0,1.0
+MUL2398.json,"Yes, that sounds much better. Could you give me their information please?",1,12,2,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0.0,0.467,0.533
+MUL2398.json,"No, that won't be necessary at this time. But, I am looking for places to go in the same area s the restaurant.",1,24,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.074,0.0,0.926
+MUL2398.json,"I don't care. Could you pick out something good for me? I just need the postcode and address, too.",1,20,3,0,0,1,0,0,0,0,1,0,0,0,0,1,1,0,0.128,0.141,0.731
+MUL2398.json,Thank you I also need to get a taxi between the two places please.,1,14,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0.0,0.324,0.676
+MUL2398.json,i ant to leave the attraction by 19:00.get contact number and car type for me please,1,16,1,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0.064,0.351,0.585
+MUL2398.json,That should be all. Thank you for your help! Goodbye!,1,10,3,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0.0,0.42,0.58
+SSNG0072.json,"Hey, I'm trying to find a restaurant called Taj Tandoori. What do you know about that?",1,17,2,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0,0.0,0.0,1.0
+SSNG0072.json,Yes please. I would like a reservation for 4 people at 15:00 on tuesday.,1,14,2,0,0,1,0,1,0,0,1,0,0,1,0,1,0,0,0.0,0.484,0.516
+SSNG0072.json,"Yes, please. If you could find one similar to Taj Tandoori, that would be perfect.",1,15,2,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0.0,0.42,0.58
+SSNG0072.json,"Sure, but let's try to keep it in the same area and price range please.",1,16,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0.0,0.261,0.739
+SSNG0072.json,Okay that is all I need at the moment.,1,9,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.213,0.787
+PMUL4550.json,Please find a restaurant called Galleria.,1,6,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0.0,0.365,0.635
+PMUL4550.json,I think it would be great to try European food. Do you think they would accept a reservation for a party of 7?,1,23,2,0,0,1,0,1,0,0,1,1,0,0,0,1,1,1,0.0,0.356,0.644
+PMUL4550.json,"Yes, for 7 people at 16:45 on Monday. I need a reference number. I need a taxi to commute also a place to visit as well as car type",1,29,3,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.234,0.766
+PMUL4550.json,I'm also looking for a college to visit in the west.,1,12,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+PMUL4550.json,pick one that is free and give me the address and phone number,0,13,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.295,0.705
+PMUL4550.json,I also need a taxi that will get me from the college to the restaurant by 16:45.,1,17,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+PMUL4550.json,Thank you. That's all I need for now.,1,9,2,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0.0,0.294,0.706
+MUL0141.json,While in Cambridge I would really like to know where to find a place to eat called meghna.,1,18,1,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0.0,0.157,0.843
+MUL0141.json,Excellent. Can you book that for me please?,1,8,2,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0.0,0.5,0.5
+MUL0141.json,"Scratch that, I'll book it myself. Now I just need to find a place to stay, a hotel with a 4 star rating.",1,24,2,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0.0,0.0,1.0
+MUL0141.json,Yes I would prefer that it's in the west. And I need free parking. That is a hotel style correct?,1,21,3,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0.0,0.286,0.714
+MUL0141.json,"I would like a 4 star rating, but price doesn't really matter. What are the prices?",1,17,2,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0,0.101,0.123,0.775
+MUL0141.json,I would like the phone number and the address of the expensive one.,1,13,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.275,0.725
+MUL0141.json,"No thank you, Would you book a taxi for me? I want to be picked up at Meghna and leave by 10:15. I would like the Contact Number and Car Type.",1,31,3,0,0,1,0,1,0,0,1,0,1,0,0,1,1,0,0.103,0.23,0.667
+MUL0141.json,The Huntingdon Marriott Hotel where I will be staying.,1,9,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+MUL0141.json,"I also need the phone number for the restaurant that you booked for me, the Meghna.",1,16,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.085,0.915
+MUL0141.json,"No, thank you very much for all of your help today.",1,11,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0.143,0.338,0.519
+PMUL4071.json,I am planning a trip in Cambridge,0,7,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+PMUL4071.json,bridge guest house is what Im looking for for 7 people and 3 nights,1,14,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+PMUL4071.json,I'd like for it to start on Wednesday.,0,9,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0.0,0.263,0.737
+PMUL4071.json,I'm also looking for a train that gets in to cambridge that day. I won't be able to leave until after 13:15 though.,1,25,2,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0.057,0.0,0.943
+PMUL4071.json,I'm looking to come from broxbourne.,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+PMUL4071.json,Pick the best one and please give price and Train ID.,1,11,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0.0,0.419,0.581
+PMUL4071.json,I would just like the know the price per ticket please. And the train ID.,1,15,2,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0.0,0.286,0.714
+PMUL4071.json,Thanks so much. That was everything I needed at this time.,1,11,2,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0.0,0.244,0.756
+PMUL1125.json,I need a train leaving on Friday.,0,7,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+PMUL1125.json,The train should depart from cambridge and should go to ely.,0,11,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0.0,0.0,1.0
+PMUL1125.json,I would like to leave on Friday and should arrive by 08:15.,1,12,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0.094,0.197,0.709
+SNG0269.json,I need to find a train that arrives at 12:30 on Wednesday.,0,12,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+SNG0269.json,I am departing from Birmingham new street and going to Cambridge.,1,11,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+SNG0269.json,Yes I need to arrive in Cambridge by 12:30 please.,1,10,1,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0.0,0.417,0.583
+SNG0269.json,"Yes, that will work. Can you book that train for 8 people? I will also need a reference number.",1,19,3,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0.0,0.222,0.778
+SNG0269.json,"Great! Thanks, that's all I need.",1,7,2,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0.0,0.709,0.291
+SNG0269.json,Thank you for all of your help!,1,7,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0.0,0.523,0.477
+PMUL1716.json,I need to come to Cambridge on Sunday and I'd like to take a train. Do you have anything leaving out of Birmingham New Street on that day?,1,29,2,0,0,1,1,0,0,0,1,0,0,0,0,1,1,0,0.0,0.091,0.909
+PMUL1716.json,I would like to arrive in Cambridge by 9:15 please.,1,10,1,0,0,0,1,1,0,0,1,0,0,1,0,1,0,0,0.0,0.407,0.593
+PMUL1716.json,Can I get the train ID and also the price for this trip?,1,13,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+PMUL1716.json,I am also looking for information on a hotel called autumn house.,0,12,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+PMUL1716.json,I want to book it for 5 people for 2 nights starting on the same day as my train trip.,1,20,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0.0,0.075,0.925
+PMUL1716.json,Thank you. That was all I needed today.,1,8,2,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0.0,0.294,0.706
+PMUL1716.json,Thanks a lot for all your help!,1,7,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0.0,0.596,0.404
+PMUL3259.json,I need a place to stay with free wifi.,0,9,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.355,0.645
+PMUL3259.json,Location doesn't really matter as long as there's free parking available.,0,13,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.095,0.243,0.662
+PMUL3259.json,Between $100-$300 per night.,0,5,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+PMUL3259.json,What is their postcode?,0,4,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+MUL0167.json,I'm looking for a guesthouse in the north area.,0,10,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+MUL0167.json,"That would need helpful yes, however I need the hotel to also offer free parking!",1,15,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.453,0.547
+MUL0167.json,"Yes, please tell me the star ratings.",1,7,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0.0,0.5,0.5
+MUL0167.json,"I would like a place in the North part of town, and its phone number. I also need a restaurant in the same area that is expensive.",1,27,2,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0.0,0.153,0.847
+MUL0167.json,I am actually looking to eat lebanese food.,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+MUL0167.json,How about Chinese then?,0,4,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+MUL0167.json,"Yes please, can I get a phone number, address, and reference number?",1,12,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0.0,0.559,0.441
+PMUL1641.json,"Yeah, I'm hoping to find a cheap place to stay. Can you help with that?",1,16,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.412,0.588
+PMUL1641.json,I don't have an area preference but it should have a star of 4 and have free parking.,1,19,1,0,0,1,0,1,0,0,1,0,0,0,0,1,0,1,0.0,0.241,0.759
+PMUL1641.json,Okay that sounds great.,1,4,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.75,0.25
+PMUL1641.json,what's the postcode?,0,4,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+PMUL1641.json,What sort of hotel is it? Guest house or hotel?,0,10,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0.0,1.0
+PMUL1641.json,Yes please go ahead and book it. I'm also looking for a train.,1,14,2,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0.0,0.333,0.667
+PMUL1641.json,I just need the postcode and hotel type.,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+PMUL1641.json,"That is all, thank you so much",1,7,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0.0,0.294,0.706
+PMUL1641.json,"cambridge, travel time, arrival time, and price please",1,8,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0.0,0.247,0.753
+PMUL1641.json,"I need help finding a train from leicester to cambridge, departing on sunday after 11:45. No reservation, just need to know travel time, arrival time, and price please.",1,28,2,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0.073,0.166,0.762
+PMUL1641.json,"No, thank you. You have been very patient and helpful. Have a nice day. Bye.",1,15,4,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0.107,0.407,0.486
+MUL0577.json,"Hi, I am looking for attractions in the centre of town. Do you have any recommendations?",1,16,2,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0.0,0.167,0.833
+MUL0577.json,I'll visit anything. I don't much care the type.,1,11,2,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.273,0.0,0.727
+MUL0577.json,Ok. What is the address and phone number for old schools?,0,11,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.28,0.72
+MUL0577.json,I also need a train to leave after 10:45 from kings lynn,1,12,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0.118,0.0,0.882
+MUL0577.json,The train should leave on monday and should go to cambridge. I don't care about the arrival time.,1,19,2,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0.203,0.0,0.797
+MUL0577.json,I would like to book that for 8 people please. Can i get the reference number?,1,16,2,0,0,0,0,1,0,0,1,0,0,1,0,1,0,0,0.0,0.379,0.621
+MUL0577.json,Thank you for the help! Have a nice day.,1,9,2,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0.0,0.624,0.376
+PMUL0315.json,Can you tell me about any cheap priced italian restaurants in cambridge?,1,12,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.0,1.0
+PMUL0315.json,I'd like a place in the centre.,1,8,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.333,0.667
+PMUL0315.json,"Zizzi please, can you book me for 6 people on saturday at 16:15?",1,13,1,0,0,1,0,1,0,0,0,0,0,1,0,1,1,0,0.0,0.173,0.827
+PMUL0315.json,Thanks! I also need to find a cheap hotel.,1,9,2,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0.0,0.347,0.653
+PMUL0315.json,Does it have free wifi?,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0.452,0.548
+PMUL0315.json,Yes and I need the reference number. Also I need a taxi to arrive at the restaurant on time. I would like the number and car type please.,1,28,3,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0.0,0.347,0.653
+PMUL0315.json,There will be 6 people staying for two nights.,0,9,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+PMUL0315.json,We need to check in on Saturday.,1,7,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+PMUL0315.json,"Yes, please. I want to book if to get me to the restaurant on time.",1,15,2,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0.0,0.364,0.636
+PMUL0315.json,"I don't need anything else. Thank you, bye!",1,9,2,0,0,1,0,0,0,0,0,0,1,0,1,1,1,0,0.0,0.318,0.682
+SNG0014.json,"Hi, could you help me find a taxi out of cocum?",1,11,1,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0.0,0.231,0.769
+SNG0014.json,"I need to be picked up by 15:00. Could you provide me the car type and contact number, please?",1,19,2,0,0,1,0,1,0,0,1,0,0,1,0,1,1,0,0.0,0.184,0.816
+SNG0014.json,"Oh, I'm sorry. I would like to travel to Gallery at Twelve a High Street. I actually need to be there by 15:00.",1,24,3,0,0,0,0,1,0,0,1,0,0,1,0,1,0,0,0.06,0.115,0.826
+SNG0014.json,When will the car arrive?,0,5,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+SNG0014.json,"Thanks, I will call them. Can you tell me what type of car I will have?",1,16,2,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0.0,0.182,0.818
+SNG0014.json,Great Thank you. That is all I need to know.,1,10,2,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0.0,0.485,0.515
+SSNG0192.json,"Id like to eat at an expensive Indian place, know any?",1,11,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.2,0.8
+SSNG0192.json,How about in the city centre?,0,6,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+SSNG0192.json,"Yes, which of them have the best reviews?",0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.535,0.465
+SSNG0192.json,Can you see which ones have availability Sunday at 19:15 for 2 people?,1,13,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0.0,0.0,1.0
+SSNG0192.json,"Nope, that would be it. Thanks for all the help, have a nice day!",1,14,2,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0.0,0.465,0.535
+MUL0356.json,"Hello, I am looking for information on a restaurant name Rice House.",0,12,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0.0,0.0,1.0
+MUL0356.json,"I'd like to reserve a table for 7 on Thursday, at 11:15. Are you able to book that for me please?",1,22,2,0,0,0,0,1,0,0,1,0,0,1,0,1,1,0,0.0,0.22,0.78
+MUL0356.json,What about 10:15?,0,3,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+MUL0356.json,"Great, thanks! I'll also need a train leaving after 11:45 on Friday.",1,13,2,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0,0.0,0.448,0.552
+MUL0356.json,I would like to go to Kings lynn.,1,8,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.294,0.706
+MUL0356.json,Yes please book it for 7 people and give me the reference number,1,13,1,0,0,1,0,1,0,0,0,0,0,1,0,1,0,1,0.0,0.412,0.588
+MUL0356.json,"No, I am all set. Thanks!",1,6,2,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0.262,0.38,0.357
+MUL1035.json,I am looking for a train that departs on Friday.,0,10,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+MUL1035.json,"Actually, I'd rather find information about a park, somewhere on the south end of town if possible.",1,18,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.0,1.0
+MUL1035.json,No thank you. I was actually looking for a park and not a cinema. Is there a park on the south side of town?,1,24,3,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0.097,0.11,0.793
+MUL1035.json,"Yes, could you give me the postcode for Wandlebury Country Park?",1,11,1,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0.0,0.213,0.787
+MUL1035.json,Yes. I'd also like to book a hotel for 4 people.,1,12,2,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0.0,0.426,0.574
+MUL1035.json,Is there a hotel called Hobsons House?,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+MUL1035.json,"Yes, I want to book it starting Wednesday for 4 nights. It should be for 4 people.",1,17,2,0,0,0,0,1,0,0,1,0,0,0,0,1,0,1,0.0,0.25,0.75
+MUL1035.json,I would also like a taxi and need to leave the hotel by 24:00.,1,14,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0.088,0.182,0.73
+MUL1035.json,"No, that's all I need. Thanks.",1,7,2,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0.272,0.358,0.37
+PMUL1060.json,A friend told me about an attraction called the scott polar museum.,1,12,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0.0,0.408,0.592
+PMUL1060.json,I need the attraction type and address.,1,7,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.375,0.625
+PMUL1060.json,No but I do need a train that will depart from peterborough and should go to cambridge.,1,17,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.103,0.0,0.897
+PMUL1060.json,I'd like to depart after 15:00 on thursday no preference on arrival.,1,13,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0.15,0.17,0.68
+PMUL1060.json,"maybe, what's the duration of the train ride?",0,9,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+PMUL1060.json,And how much is a ticket?,0,6,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+PMUL1060.json,"No, I think I'll hold off on that. That's it for today. Thanks for your help. Have a great day.",1,22,4,0,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0.085,0.375,0.541
+PMUL1060.json,No than kyou.,1,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.524,0.0,0.476
+SSNG0091.json,Can you please help me find a cheap italian restaurant?,1,10,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0.0,0.417,0.583
+SSNG0091.json,It doesn't matter what area. Can you book a table for 2 people at 11:00 on Wednesday.,1,18,2,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0.071,0.0,0.929
+SSNG0091.json,"If there is one that you know of that you recommend, that would be fine. I don't know any, so some guidance would be great.",1,26,2,0,0,1,0,0,0,0,1,1,0,0,0,1,1,0,0.0,0.286,0.714
+SSNG0091.json,Okay as long as it's in the same price range.,0,11,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0.174,0.826
+SSNG0091.json,Great Yes it is and thank you.,1,7,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0.0,0.699,0.301
+SSNG0091.json,"No, that's all. Thanks again for your help.",1,9,2,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0.172,0.437,0.391
+PMUL4371.json,I am looking for a restaurant called shanghai family restaurant.,0,10,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+PMUL4371.json,7 People at 19:15 and can we do that on monday?,1,11,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+PMUL4371.json,Thank you for booking that for me.,1,7,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0.0,0.294,0.706
+PMUL4371.json,I am also looking for a train leaving on Tuesday from Cambridge.,1,12,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+PMUL4371.json,"I would like to get to Ely by 17:45, please.",1,10,1,0,0,0,0,1,0,0,1,0,0,1,0,1,0,0,0.0,0.407,0.593
+PMUL4371.json,"Yes please, I'll need it for 7 people",1,9,1,0,0,1,0,1,0,0,0,0,0,1,0,1,0,1,0.0,0.5,0.5
+PMUL4371.json,Thats everything thanks for the help,1,6,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.0,0.583,0.417
+SNG01915.json,I need a taxi to go to cambridge punter.,1,9,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+SNG01915.json,I'm leaving from addenbrookes hospital.,1,6,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+SNG01915.json,"I want to leave the hospital after 08:15, please.",1,9,1,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0.122,0.367,0.51
+SNG01915.json,What is the contact number for the blue Toyota?,0,9,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.14,0.86
+SNG01915.json,"No that was all, thank you!",1,6,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0.245,0.31,0.445
+PMUL2355.json,"I am traveling to Cambridge and excited about seeing local tourist attractions, can you help?",1,15,1,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0.0,0.418,0.582
+PMUL2355.json,"Yes, I would like to see a museum. Can you tell me the postcode and entrance fee for it?",1,19,2,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0.0,0.257,0.743
+PMUL2355.json,I have no particular area preference. Can you list a few for me to select from?,1,16,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.145,0.0,0.855
+PMUL2355.json,Yes could I have their postcode and entrance fee?,1,9,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.278,0.722
+PMUL2355.json,I am also looking for the restaurant Yu Garden.,1,9,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+PMUL2355.json,Can you give me more information about Yu Garden.,1,9,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.0,1.0
+PMUL2355.json,Just the price range and postal code please.,1,8,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0.0,0.247,0.753
+PMUL2355.json,that is it. thank you for helping me,1,8,2,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0.0,0.439,0.561
+MUL2522.json,"Hello, I am planing to visit Cambridge and I am looking for a swimmingpool.",1,14,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0.0,0.0,1.0
+MUL2522.json,"It doesn't matter. I will need the address, phone number, and area of town.",1,15,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0.08,0.097,0.822
+MUL2522.json,That's great thanks. Also I need a hotel in the south.,1,12,2,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0.0,0.5,0.5
+MUL2522.json,"Not really, just get me one with 3 stars please",1,10,1,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0.0,0.223,0.777
+MUL2522.json,"The Bridge is fine, please.",1,5,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0.0,0.577,0.423
+MUL2522.json,"Yes please, could you make a booking for me?",1,9,1,0,0,1,0,0,0,0,1,0,0,1,0,1,1,0,0.0,0.455,0.545
+MUL2522.json,"I'm sorry, but I don't need a booking anymore. Could you tell me if they have free parking?",1,20,2,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0.059,0.227,0.714
+MUL2522.json,"Okay, thanks. Do they also have free internet?",1,8,2,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0.0,0.618,0.382
+MUL2522.json,Great! Thank you for your help. Goodbye!,1,7,3,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0.0,0.712,0.288
+SNG0062.json,I need a taxi to take me to Thanh Binh and I should arrive before 22:15.,1,16,1,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0.0,0.0,1.0
+SNG0062.json,I am leaving from the Shiraz restaurant. Can I get the car type and contact number please?,1,17,2,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0.0,0.217,0.783
+SNG0062.json,"Thanks, that all I need today.",1,6,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0.0,0.42,0.58
+PMUL4494.json,"Find me a place called maharajah tandoori restaurant, please",1,9,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0.0,0.247,0.753
+PMUL4494.json,"Yes, please book a table for 3 at 12:15 on Monday.",1,11,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0.0,0.417,0.583
+PMUL4494.json,Great thank you,1,3,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0.0,0.868,0.132
+SSNG0054.json,"I am looking for a Cuban food place, in the east.",0,11,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+SSNG0054.json,Can you check again? The only thing I'm interested in is a moderately priced Cuban restaurant in the east.,1,20,2,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0.0,0.137,0.863
+SSNG0054.json,Do you have a moderately priced Indian restaurant in the east?,1,11,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0.0,0.0,1.0
+SSNG0054.json,I will try the Curry Prince. Can you book a table for 4 people on Monday at 17:30?,1,18,2,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0.0,0.0,1.0
+SSNG0054.json,"Yes, try that.",0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.574,0.426
+SSNG0054.json,"No, thank you. You have been very helpful. Have a great day.",1,12,3,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0.115,0.52,0.365
+SSNG0054.json,Thanks again for helping to find me a place to eat. I have the reference number T44KC552.,1,17,2,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0.0,0.348,0.652
+PMUL4926.json,I am looking for a restaurant. The restaurant should serve modern american food and should be in the centre,1,19,2,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.0,1.0
+PMUL4926.json,Do you have a similar restaurant that is close to centre?,1,11,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0.0,1.0
+PMUL4926.json,"Yes, I would like that.",1,5,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.722,0.278
+PMUL4926.json,"I'm sorry I misread that you said north american. If there's no modern american, then can you try italian instead?",1,22,2,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0.259,0.0,0.741
+PMUL4926.json,Expensive italian will do.,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+PMUL4926.json,"No thanks, I just need the phone number please.",1,9,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0.173,0.512,0.315
+PMUL4926.json,"Yes, I'm also looking for a place to stay. I'd like it to be in the north and same price range as the restaurant.",1,26,2,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0.0,0.198,0.802
+PMUL4926.json,Is there anything in the moderate price range?,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+PMUL4926.json,Yes I would prefer a 4 star and would like for it to have free parking.,1,16,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,1,0.0,0.459,0.541
+PMUL4926.json,I have no preference. What do you recommend?,1,8,2,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0.227,0.258,0.515
+PMUL4926.json,What area is that in again?,0,6,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+PMUL4926.json,get me their phone number and hotel type,0,8,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.157,0.843
+PMUL4926.json,Thank you very much for your time. Have a nice day!,1,11,2,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0.0,0.411,0.589
+SNG0154.json,I think I may have hurt myself. Where is the nearest hospital?,1,12,2,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0.274,0.0,0.726
+SNG0154.json,"Ok, can you please give me the phone number and postcode?",1,11,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0.0,0.42,0.58
+PMUL3945.json,I am planning a trip in Cambridge,1,7,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+PMUL3945.json,I need a train that will leave monday ggo to Cambridge at 12:00,1,13,1,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0.107,0.0,0.893
+PMUL3945.json,I will be leaving London Liverpool Street.,1,7,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+PMUL3945.json,Okay. I also need to find a guesthouse to stay in the expensive price range.,1,15,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.137,0.863
+PMUL3945.json,I prefer an expensive hotel in the north please,1,9,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0.0,0.247,0.753
+PMUL3945.json,How about one in the moderate price range then.,0,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+PMUL3945.json,"I prefer a four star hotel, please. And can you tell me whether one has free parking?",1,17,2,0,0,1,0,0,0,0,0,0,0,1,0,1,1,0,0.0,0.301,0.699
+PMUL3945.json,"That sounds nice, thank you. May have their number and postcode, please?",1,12,2,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0.0,0.527,0.473
+PMUL3945.json,No thanks. Do they have free parking?,1,7,2,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0.177,0.5,0.323
+PMUL3945.json,"Thank you for your assistance. I will do the booking, myself.",1,11,2,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0.0,0.217,0.783
+PMUL3945.json,that is fine for today. thank you,1,7,2,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0.0,0.462,0.538
+SNG0276.json,I'm looking for a train going to Cambridge that leaves at 11:30.,0,13,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+SNG0276.json,Birmingham new street,0,3,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+SNG0276.json,no thank you,1,3,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0.386,0.439,0.175
+PMUL0063.json,I'm looking for a hotel called avalon.,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+PMUL0063.json,"Great, yes please. There will be 7 of us arriving on Wednesday. We'd like to stay for 4 nights.",1,20,3,0,0,0,0,1,0,0,1,1,0,1,0,1,0,0,0.0,0.472,0.528
+WOZ20012.json,I would like a moderately priced steakhouse restaurant.,1,8,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.333,0.667
+WOZ20012.json,How about moderately priced British food?,0,6,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+WOZ20012.json,Can you give me the phone numbers please,1,8,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0.0,0.247,0.753
+WOZ20012.json,"Okay, so may I have the number please?",1,8,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0.0,0.579,0.421
+WOZ20012.json,"Thank you, goodbye",1,3,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0.0,0.556,0.444
+SNG0915.json,"Could you help me find Cityroomz, please?",1,7,1,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0.0,0.5,0.5
+SNG0915.json,Can you book a room for me there? We'll be arriving on Saturday and need to stay 4 nights. There will be 7 of us staying.,1,27,3,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0.0,0.0,1.0
+SNG0915.json,"Nope, that'll be all, thanks. Bye!",1,7,2,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0.0,0.39,0.61
+SNG0887.json,I'm looking for a place to stay. Are there any guesthouses that are moderately priced?,1,16,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+SNG0887.json,"No, I really don't care what area, but I would like it to have a 4 star rating.",1,19,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,1,0.2,0.183,0.618
+SNG0887.json,That sounds perfect so long as it has free parking.,0,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0.467,0.533
+SNG0887.json,Yes. I'll need it for 4 people starting on Saturday. We'll be there for 5 nights.,1,18,3,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0.0,0.172,0.828
+SNG0887.json,"Well, is it available for at least 4 nights?",0,9,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0.0,0.231,0.769
+SNG0887.json,"Actually, I misspoke. I need the room for 5 people, for 5 nights, starting Saturday. If that doesn't work, 4 nights is fine.",1,24,3,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.096,0.904
+SNG0887.json,"No, that's it. Thank you very much.",1,8,2,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0.227,0.258,0.515
+SNG0146.json,I was robbed and I need some help.,1,8,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.351,0.649
+SNG0146.json,"Okay, thanks. I'll call them. That's all I need for now.",1,13,3,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0.0,0.375,0.625
+MUL2473.json,You may help me by finding a Muslim restaurant for me to eat at please.,1,15,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0.0,0.294,0.706
+MUL2473.json,can you book the backstreet bistro for me ?,1,8,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.0,1.0
+MUL2473.json,I'd like to book a table for two around 19:45 on wednesday.,1,13,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0.0,0.2,0.8
+MUL2473.json,Thanks. Next can I get some info on theatre's in the centre?,1,13,2,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0.0,0.225,0.775
+MUL2473.json,Can you recommend one for me please?,1,7,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0.0,0.49,0.51
+MUL2473.json,Could you give me their address?,1,6,1,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0.0,0.0,1.0
+MUL2473.json,I would also like to know about any attractions that is in the centre of town that is a theatre type.,1,21,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.238,0.762
+MUL2473.json,Could I get the address for the Cambridge Arts Theatre?,1,10,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.0,1.0
+SNG0849.json,Can you navigate me to a 5 star hotel with free wifi please?,1,13,1,0,0,0,0,1,0,0,0,0,0,1,0,1,1,0,0.0,0.384,0.616
+SNG0849.json,Do you have a place with free wifi in the cheap range with a star of 4?,1,17,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0.0,0.191,0.809
+SNG0849.json,What type of hotels are they?,0,6,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+SNG0849.json,looking for something with 5 stars and free wifi,0,9,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.32,0.68
+SNG0849.json,"Sorry, how silly of me. I want to stay at a hotel, not a guesthouse. A cheap 4 star with free wifi, please.",1,23,3,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0.058,0.359,0.583
+SNG0849.json,"I don't need it booked just yet. I just needed the info, thanks.",1,14,2,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0.0,0.225,0.775
+SNG0849.json,"No, thank you for your patience. I am all set now. Bye.",1,12,3,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0.161,0.182,0.657
+PMUL2498.json,I am looking for information on attractions in the west side of town.,0,13,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.203,0.797
+PMUL2498.json,"Not really, but I do need a postcode.",1,8,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+PMUL2498.json,thanks! can you help me find a restaurant in that area? I want to spend a lot of money,1,19,3,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0.0,0.356,0.644
+PMUL2498.json,I'm open to suggestions.,1,5,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+PMUL2498.json,Okay. Why type of food do they serve and I need the postcode then too please,1,16,2,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0.0,0.244,0.756
+PMUL2498.json,Great. Thanks for your assistance!,1,5,2,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0.0,0.709,0.291
+PMUL2498.json,that is all the information I need today thank you.,1,10,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0.0,0.238,0.762
+SNG01476.json,I want help booking a taxi,1,6,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.667,0.333
+SNG01476.json,I am going to the Cambridge county fair next to the city tourist museum.,1,14,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0.0,0.161,0.839
+SNG01476.json,I want to leave after 16:45,1,6,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.218,0.236,0.545
+SNG01476.json,Leaving from travelers rest,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+SNG01476.json,Perfect! Thank you so much for all of your help.,1,10,2,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0.0,0.568,0.432
+PMUL4243.json,I'm looking for a expensive guesthouse.,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+PMUL4243.json,Are there any expensive guesthouses in any area? I just need it to have free parking.,1,16,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0.0,0.191,0.809
+PMUL4243.json,"Sure, I'll go with a cheap one.",1,8,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.315,0.685
+PMUL4243.json,"No, I don't need to book at the moment, but I would like the address.",1,16,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.101,0.205,0.694
+PMUL4243.json,I also need a train arriving by 17:45 on Sunday.,1,10,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+PMUL4243.json,Sorry the train should arrive in Leicester by 17:45 and depart from Cambridge on Sunday.,1,15,1,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0.085,0.0,0.915
+PMUL4243.json,Could you please let me know when that departs and what the total travel time is?,1,16,1,0,1,0,0,0,0,0,1,0,0,1,0,1,1,0,0.0,0.133,0.867
+PMUL4243.json,"Thank you, please.",1,3,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0.0,0.828,0.172
+PMUL4243.json,Thank you very much for your help today!,1,8,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0.0,0.478,0.522
+PMUL4243.json,"nope, that's it thanks!",1,5,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0.473,0.0,0.527
+PMUL4401.json,I am looking for information in Cambridge.,0,7,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+PMUL4401.json,"Oops, sorry. I should have given you more info. I am wanting to find a train to get me to Bishops Stortford.",1,22,3,0,0,0,1,0,0,0,1,0,0,1,0,1,1,0,0.067,0.0,0.933
+PMUL4401.json,Me and 6 of my friends want to leave sometime after 8:30.,0,12,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0.088,0.324,0.588
+PMUL4401.json,I'll be leaving cambridge on Tuesday and need a booking.,1,11,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+PMUL4401.json,"Yes, for 7. Please give me the reference number.",0,9,2,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0.0,0.512,0.488
+PMUL4401.json,"Can I get an expensive place to stay? A hotel more specifcally, 2 stars please.",1,15,2,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0.0,0.189,0.811
+PMUL4401.json,Can you book a room for me?,1,7,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.0,1.0
+PMUL4401.json,"I'm looking just for the phone number, address, and area of the hotel.",1,14,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.098,0.902
+PMUL4401.json,"Yes, that one would be perfect. I need the address, phone number and area please.",1,15,2,0,0,1,0,0,0,0,1,0,0,1,0,1,0,0,0.0,0.5,0.5
+PMUL4401.json,that is all i wanted to know for today thank you,1,11,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0.0,0.217,0.783
+SNG0854.json,I'm needing a place to stay that is in the centre of town.,1,14,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+SNG0854.json,"I don't care about the price range, but I need free parking, please.",1,14,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0.105,0.43,0.465
+SNG0854.json,"I would prefer a hotel with 4 stars please, are either of those 4 stars with free parking? And also do either have free wifi?",1,25,2,0,0,0,0,1,0,0,1,0,0,1,0,1,0,0,0.0,0.34,0.66
+SNG0854.json,"I don't want to book it right now. Can I get the phone number and postcode, please?",1,18,2,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0.073,0.214,0.713
+SNG0854.json,"Just to verify, the University Arms offers free WiFi and free parking?",0,12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.398,0.602
+SNG0854.json,Great! That is wonderful! Have a great day!,1,8,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.762,0.238
+SNG01764.json,I am looking for the Addenbrookes Hospital,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+SNG01764.json,"No, that's all I need. Thank you.",1,8,2,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0.253,0.287,0.46
+WOZ20516.json,I want a moderately priced restaurant and serves asian oriental food. What is the address and phone number?,1,18,2,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.157,0.843
+WOZ20516.json,Thank you goodbye.,1,3,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0.0,0.556,0.444
+PMUL1532.json,"Hello, I need to take a train to Norwich on Tuesday, can you please tell me what's available?",1,19,1,0,1,0,1,0,0,0,0,0,0,1,1,1,1,0,0.0,0.133,0.867
+PMUL1532.json,cambridge and should leave after 14:45,0,6,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0.194,0.0,0.806
+PMUL1532.json,Yes please book TR6524 on tuesday leaving at 14:45 going to norwich from cambridge. Please confirm departure time. Thank you.,1,20,3,0,0,1,0,1,0,0,0,0,1,1,0,0,1,0,0.0,0.38,0.62
+PMUL1532.json,"I just need the train travel time , please.",1,8,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0.0,0.277,0.723
+PMUL1532.json,"Yes please, I'm looking for a guesthouse with free wifi. The area doesn't matter.",1,16,2,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0.058,0.452,0.49
+PMUL1532.json,"Yes, I'm celebrating a special occasion, so money is no object. Is A and B an expensive, 4-star guesthouse?",1,20,2,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0.105,0.386,0.509
+PMUL1532.json,yes i am rich I need expensive,1,7,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.677,0.323
+PMUL1532.json,how about a hotel type instead?,0,6,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+PMUL1532.json,"Yes, please book for 5 people, for 4 nights starting on friday.",1,12,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0.0,0.385,0.615
+PMUL1532.json,No. Thanks.,1,2,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.431,0.569,0.0
+PMUL1532.json,Have a nice day.,1,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.583,0.417
+PMUL1416.json,I want a train leaving from cambridge.,0,7,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.245,0.755
+PMUL1416.json,I need it to leave after 12:15 on Saturday.,0,9,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0.146,0.0,0.854
+PMUL1416.json,My destination is leicester.,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+PMUL1416.json,"Awesome, book me one ticket please",1,6,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0.0,0.615,0.385
+PMUL1416.json,I also need to find an attraction while I'm there.,0,11,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.273,0.727
+PMUL1416.json,It should be in the centre of town. What type of attractions are available?,1,14,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0.0,0.177,0.823
+PMUL1416.json,You choose. Can you tell me the attraction type and phone number?,1,12,2,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.301,0.699
+PMUL1416.json,"Ok, sounds like a blast, thank you!",1,7,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0.0,0.714,0.286
+PMUL1416.json,No. That was all. Thanks. Bye.,1,6,4,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0.242,0.319,0.44
+WOZ20112.json,Do you have any restaurants that serve caribbean food?,1,9,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0.0,1.0
+WOZ20112.json,What about a restaurant that serves Chinese food? What is their phone number?,0,13,2,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.131,0.869
+WOZ20112.json,"no, it doesn't matter",0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.621,0.0,0.379
+WOZ20112.json,"Thank you, goodbye",1,3,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0.0,0.556,0.444
+MUL2066.json,"Hi, I'm looking for a guesthouse that's in the expensive range.",1,13,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0.0,0.0,1.0
+MUL2066.json,"I need the place I'd like to stay to also include wifi, is there anything?",0,16,1,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.161,0.839
+MUL2066.json,I'd prefer a cheap guesthouse instead (that still offers WiFi).,1,11,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.0,1.0
+MUL2066.json,"Yes, please. I would like to book a room starting Wednesday for 5 people, 2 nights.",1,16,2,0,0,0,0,1,0,0,1,0,0,1,0,1,0,0,0.0,0.455,0.545
+MUL2066.json,I also am looking for a train.,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+MUL2066.json,I will be travelling from Ely to Cambridge on Wednesday and need to leave after.,1,15,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0.085,0.0,0.915
+MUL2066.json,"I'd like to leave after 16:30, please.",1,8,1,0,0,0,0,1,0,0,1,0,0,1,0,1,0,0,0.12,0.48,0.4
+MUL2066.json,"Thank you, I will not need the booking quite yet but I would like to have the price of the train as well please.",1,24,1,0,0,0,0,0,0,0,1,0,1,1,0,1,1,0,0.0,0.371,0.629
+MUL2066.json,And what time does the train arrive?,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+MUL2066.json,No thank you. That's all I need. Thank you and goodbye!,1,12,3,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0.152,0.365,0.483
+MUL1591.json,I'm looking for a train that leaves from Cambridge after 14:45.,0,12,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+MUL1591.json,I am looking to travel friday and head to bishops stortford.,0,11,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+MUL1591.json,"No, that's all the information I need. Thanks, have a great day!",1,13,2,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0.133,0.442,0.424
+MUL1591.json,I'm also looking for a place for dinner. Can you help with that?,1,14,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.197,0.803
+MUL1591.json,I would like an expensive Italian placem are is not an issue.,1,12,1,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0.0,0.2,0.8
+MUL1591.json,"Yes, 3 people at 10:15 on friday.",0,7,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.351,0.649
+MUL1591.json,No that's all I need. Thank you.,1,8,2,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0.253,0.287,0.46
+MUL1535.json,I am looking for a moderately priced restaurant in the centre.,0,11,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+MUL1535.json,I'm hoping to have some european food.,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.318,0.682
+MUL1535.json,The first one sounds nice. I'd like to make a reservation for 2 people at 13:30 on Thursday.,1,19,2,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0.0,0.275,0.725
+MUL1535.json,Could I have the reference number please?,1,7,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0.0,0.474,0.526
+MUL1535.json,I am also looking for a train that goes to Stevenage.,0,11,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+MUL1535.json,I'd like to leave on Friday and get there by 15:30,0,12,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0.094,0.197,0.709
+MUL1535.json,The latest departure time would work best. thank you.,1,9,2,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0.0,0.489,0.511
+MUL1535.json,I'll be departing from Cambridge. What will the ticket cost me?,1,12,2,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+MUL1535.json,No thanks. That won't be necessary. Have a great day. Thanks. Bye.,1,13,5,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0.115,0.518,0.366
+WOZ20564.json,I would like a cheap restaurant that serves mediterranean food,1,10,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.263,0.737
+WOZ20564.json,"Yes, thank you. Could you tell me the address and phone number of that restaurant?",1,15,2,0,0,0,0,0,0,0,1,0,1,0,0,1,1,0,0.0,0.351,0.649
+WOZ20564.json,The Gardenia sounds good. Thanks.,1,5,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.0,0.659,0.341
+PMUL4393.json,Are there any guesthouses in the east?,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+PMUL4393.json,It needs to be cheap.,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0.0,1.0
+PMUL4393.json,Can I have the address for Leverton House?,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+PMUL4393.json,Do they have internet and free parking?,0,7,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.355,0.645
+PMUL4393.json,That will work can you book that for me?,1,9,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.0,1.0
+SNG1322.json,"I there! I hope you're having a nice day. Hi, I need ride or taxi from Lovell lodge to Holy Trinity Church around 10:30. What are my options?",1,29,4,0,1,0,0,1,0,0,0,0,0,0,1,1,1,0,0.0,0.214,0.786
+SNG1322.json,Thank you! That will be all.,1,6,2,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0.0,0.358,0.642
+SNG0158.json,Hello I am injured and am looking for a nearby hospital please.,1,12,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0.208,0.177,0.615
+SNG0158.json,Can you also send the postcode and address please?,1,9,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0.0,0.223,0.777
+SNG0158.json,"I think I can take it from here, but I will call you if I need anything else.Thanks,",1,18,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0.0,0.0,1.0
+SNG0158.json,You do the same!,1,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0.0,1.0
+SNG0484.json,I am looking for a place serving christmas food in the centre of town.,0,14,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+SNG0484.json,Do you have any Indian restaurants?,1,6,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0.0,0.0,1.0
+SNG0484.json,I actually would prefer gastropub type food and preferably in the moderate price range.,1,14,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.0,1.0
+SNG0484.json,Are there any other options for gastropub?,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+SNG0484.json,"In that case, could you give me the address and phone number?",1,12,1,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0.0,0.106,0.894
+SNG0484.json,"No, that's all. Thank you.",1,6,2,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0.286,0.325,0.39
+SNG01537.json,I am looking for a place to stay. The hotel should have a star of 0 and should be in the type of hotel,1,24,2,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0.0,0.0,1.0
+SNG01537.json,The hotel should include free wifi and doesn't need to have free parking.,0,14,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0.0,0.375,0.625
+SNG01537.json,yes.book for six people and six nights. remember to also give me the reference number,1,15,2,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.085,0.915
+SNG01537.json,"it needs to start on wednesday, please.",1,7,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0.0,0.277,0.723
+SNG01537.json,How about for 5 nights?,0,5,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+SNG01537.json,"Actually I need the reservation to be for 4 nights, 6 people, starting from wednesday. Could you change the reservation for me please?",1,23,2,0,0,0,0,1,0,0,1,0,0,1,0,1,1,0,0.0,0.108,0.892
+SNG01537.json,"I think that is everything, thanks!",1,6,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0.0,0.444,0.556
+PMUL4406.json,i'm looking for a particular hotel,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+PMUL4406.json,"Finches Bed and Breakfast. I would like to book it for 1 person and 4 nights, start date on Wednesday. Can you also provide me with reference number?",1,28,3,0,0,0,0,1,0,0,1,0,0,0,0,1,1,1,0.0,0.142,0.858
+PMUL4406.json,im also looking for a place to go in the south,0,11,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+PMUL4406.json,it should be a theatre. get me the entrance number,1,10,2,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1,0.0,0.14,0.86
+PMUL4406.json,"Actually I'll be taking a taxi between the two. But before I do that, is there an entrance fee?",1,20,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+PMUL4406.json,"No thank you. I would like a taxi, leaving The Junction by 17:30.",1,13,2,0,0,0,0,1,0,0,1,0,1,0,0,1,1,0,0.145,0.329,0.526
+PMUL4406.json,"No, you have taken care of everything. Thanks you so much. Good-bye.",1,12,3,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0.127,0.353,0.52
+MUL2694.json,"Hello, I am looking for a hotel in the south that is moderately priced.",1,14,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0.0,0.0,1.0
+MUL2694.json,"I'd prefer a hotel. It should have a 4 star rating. Can you check again, please?",1,17,3,0,0,0,0,1,0,0,1,0,0,1,0,1,1,1,0.0,0.161,0.839
+MUL2694.json,"Okay, do you have any hotels with a 3 star rating instead?",1,12,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0.0,0.174,0.826
+MUL2694.json,"I guess that's fine, book it for 6 people for 2 nights, We'll be there on thursday.",0,19,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0.0,0.122,0.878
+MUL2694.json,"Yes, I'm also looking for info on Wandlebury Country Park.",0,11,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.231,0.769
+MUL2694.json,Can you give me their phone number please?,1,8,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0.0,0.375,0.625
+PMUL2561.json,"Let's try for moderate price range, four stars please.",1,10,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0.0,0.223,0.777
+PMUL2561.json,Does the guesthouse have internet?,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+PMUL2561.json,Okay. That is all I needed to know. Thanks.,1,9,3,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0.0,0.444,0.556
+PMUL2561.json,No thank you I do not need anything else today.,1,10,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0.188,0.214,0.598
+PMUL0456.json,Hi. I am looking for a place to stay.,1,9,2,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0.0,0.0,1.0
+PMUL0456.json,I'm looking for a cheap 4 star hotel in the east that has free wifi.,1,16,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.216,0.784
+PMUL0456.json,"Please recommend the best one, I need to book a stay for 7 people starting Thursday for 2 nights.",1,19,1,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0.0,0.429,0.571
+PMUL0456.json,Thanks! Are there any cheap Indian restaurants near the hotel?,1,10,2,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0.0,0.262,0.738
+PMUL0456.json,How about Indian restaurant with moderate price range and do not care about location,1,14,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.168,0.0,0.832
+PMUL0456.json,I would prefer one that is located in the east.,1,10,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.0,1.0
+PMUL0456.json,"Yes, I will need to book it for the same day.",0,11,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0.0,0.231,0.769
+PMUL0456.json,There will be 7 of us.,0,6,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+PMUL0456.json,"I would like the table at 16:45, please.",1,8,1,0,0,0,0,1,0,0,1,0,0,1,0,1,0,0,0.0,0.49,0.51
+PMUL0456.json,Great. I have all that I need. Thank you very much!,1,11,3,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0.0,0.496,0.504
+PMUL3570.json,Can you get me information on a hotel called cityroomz?,1,10,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.0,1.0
+PMUL3570.json,I would like to book this hotel for 4 people and 2 nights for Tuesday.,1,15,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0.0,0.185,0.815
+PMUL3570.json,Can I have the reference number please.,1,7,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0.0,0.474,0.526
+PMUL3570.json,Thank you. I will also need a train to cambridge.,1,10,2,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0.0,0.263,0.737
+PMUL3570.json,I will be coming in from Stansted Airport heading into Cambridge.,0,11,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+PMUL3570.json,I want to travel on Tuesday.,0,6,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.245,0.755
+PMUL3570.json,"I'd like to arrive by 18:30, but I can leave at any time.",1,14,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0.1,0.134,0.766
+PMUL3570.json,Sounds good enough to me. What is the price of the TR 9892?,1,13,2,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.195,0.805
+PMUL3570.json,"Ok, great and could you please confirm the departure time for that train?",1,13,1,0,0,0,0,0,0,0,1,1,0,1,0,0,1,0,0.0,0.462,0.538
+PMUL3570.json,Okay great. Thank you!,1,4,2,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0.0,0.898,0.102
+PMUL3570.json,"No, you have been a great help. That's it for now. Goodbye.",1,13,3,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0.129,0.4,0.471
+PMUL4777.json,I want to know if there are any places serving Belgian food in the centre?,1,15,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0.0,0.091,0.909
+PMUL4777.json,Let's try a place serving indian food.,0,8,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+PMUL4777.json,That works for me. Can you reserve a table for 3 people on Sunday at 4 PM?,1,17,2,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0.0,0.0,1.0
+PMUL4777.json,Thank you for taking care of the restaurant. I now need help with a specific hotel called autumn house.,1,19,2,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0.0,0.375,0.625
+PMUL4777.json,Please book that for the same day and same group of people for 4 nights,1,15,1,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0.0,0.15,0.85
+PMUL4777.json,"I'd like to book a taxi also, to commute between those two locations, please.",1,15,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0.0,0.304,0.696
+PMUL4777.json,It will be for 3 people as well.,0,8,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0.0,0.259,0.741
+PMUL4777.json,Nope that's all I needed tonight.,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+SNG0842.json,Are there any proper hotels in the south?,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+SNG0842.json,"Ok, are there any hotels in the cheap price range in the south part of town?",0,16,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.128,0.872
+SNG0842.json,Can we check for guesthouses?,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+SNG0842.json,"Yes, that will work.",1,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.474,0.526
+SNG0842.json,"I don't need a reservation right now, but does Rosa's B&B have internet?",1,16,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+SNG0842.json,I really need internet. Can you tell me if they have free wifi?,1,13,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.231,0.769
+SNG0842.json,"No, that's fine!",0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.471,0.34,0.189
+SNG0842.json,"No, that is all I need. Thank you.",1,8,2,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0.227,0.258,0.515
+MUL0780.json,I am looking for a train that departs from Cambridge. It needs to leave after 15:00.,1,16,2,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0.085,0.0,0.915
+MUL0780.json,I need to go to stansted airport and I want to leave on Monday,1,14,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.096,0.104,0.8
+MUL0780.json,I need to leave after 15:00.,0,6,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.231,0.0,0.769
+MUL0780.json,"Yes please. I also need a place to stay, preferably in the west part of town.",1,16,2,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0.0,0.294,0.706
+MUL0780.json,A guesthouse please that is not too expensive.,1,8,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0.0,0.277,0.723
+MUL0780.json,"Is Finches located in the west and if so, can I please get the postcode?",1,15,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0.0,0.166,0.834
+MUL0780.json,Thank you. That is everything I needed today.,1,8,2,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0.0,0.294,0.706
+SNG0788.json,Hi there. I was wondering if you might be able to help me locate a guesthouse to stay at in town.,1,21,2,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0.0,0.13,0.87
+SNG0788.json,I am just looking for one with free parking,0,9,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.32,0.68
+SNG0788.json,That sounds good. Please book it for 1 person and 3 nights starting on Friday.,1,15,2,0,0,1,0,1,0,0,0,0,0,1,0,0,0,1,0.0,0.321,0.679
+SNG0788.json,"That's all I need, thank you.",1,7,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0.0,0.385,0.615
+PMUL4476.json,I'm looking for a place to stay that has 4 stars and includes free parking.,0,16,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.216,0.784
+PMUL4476.json,I think I need it to be in the centre. I probably prefer a hotel if possible.,1,17,2,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0.0,0.0,1.0
+PMUL4476.json,Sure. I need a room for 4 people and 4 nights starting from thursday.,0,14,2,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.204,0.796
+PMUL4476.json,"Thanks. Now that the hotel is set, I need to book a train for Thursday going to Peterborough.",1,18,2,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0.0,0.162,0.838
+PMUL4476.json,"Yes, I am leaving from Cambridge and I will need to arrive by 09:45 please",1,15,1,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0.0,0.312,0.688
+WOZ20411.json,I am looking for a restaurant in the center of town that serves Russian food.,0,15,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+WOZ20411.json,"yes please, is there any restaurant serve british food?",1,9,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0.0,0.417,0.583
+WOZ20411.json,No. What is the address and phone number?,0,8,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.232,0.137,0.632
+WOZ20411.json,"thank you, good bye",1,4,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0.0,0.73,0.27
+WOZ20520.json,I need a cheap restuarant. Probably in the west part of town,0,12,2,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+WOZ20520.json,What kind of food do they serve?,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+WOZ20520.json,That sounds good. What is their phone number?,0,8,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.412,0.588
+WOZ20520.json,that was all I needed. Bye now.,1,7,2,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0.0,0.0,1.0
+PMUL0305.json,I'm looking for a place to eat in Cambridge. I'd like to eat light bites in the mid price range please.,1,23,2,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,0.0,0.211,0.789
+PMUL0305.json,"Okay, how about some Italian food? That sounds good, too.",1,10,2,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.375,0.625
+PMUL0305.json,"anywhere should be fine. find me the postcode, phone number and location please.",1,13,2,0,0,1,0,0,0,0,1,0,0,1,0,1,0,0,0.0,0.351,0.649
+PMUL0305.json,"I would like to find a room as well, with free wifi.",1,12,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.53,0.47
+PMUL0305.json,I want a 4 star place with the same price range as the restaurant. And free parking as well.,1,19,2,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.34,0.66
+PMUL0305.json,"Sure, can you book that for me? Starting friday, 2 nights, and 5 people",1,14,2,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0.0,0.173,0.827
+PMUL0305.json,That is all that I need.,0,6,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+PMUL0305.json,Thank you that is all I need today. Have a great day.,1,12,2,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0.0,0.452,0.548
+PMUL4472.json,Find me a place to dine on some cheap foods from the americas please.,1,14,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0.0,0.161,0.839
+PMUL4472.json,How about spanish food?,0,4,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+PMUL4472.json,you can help me to book a table for 8 people at 16:45 on friday. Make sure you get the reference number with moderate price range,1,26,2,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,0.0,0.231,0.769
+PMUL4472.json,"Great, thanks! Can you also help me find a train to get me to Cambridge from Leicester?",1,17,2,0,0,0,1,0,0,0,0,1,1,0,0,1,1,0,0.0,0.435,0.565
+PMUL4472.json,I would like Friday,1,4,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.556,0.444
+PMUL4472.json,Can you pick one and get me 8 tickets please?,1,10,1,0,0,0,0,1,0,0,0,0,0,1,0,1,1,0,0.0,0.223,0.777
+PMUL4472.json,"Thanks, that's all I needed today!",1,7,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0.0,0.444,0.556
+PMUL0895.json,I'm looking for a restaurant in the north.,0,9,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+PMUL0895.json,"I want some light bites food, and cheap if possible.",0,10,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.14,0.86
+PMUL0895.json,how about one that serves italian food,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+PMUL0895.json,Yes I would like to book a table for 2 at 12:30 on Thursday please.,1,15,1,0,0,0,0,1,0,0,1,0,0,1,0,1,0,0,0.0,0.455,0.545
+PMUL0895.json,"great, thanks for your help.",1,5,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0.0,0.829,0.171
+PMUL1033.json,I need to book a train to cambridge on Monday.,0,10,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+PMUL1033.json,I will be departing out of Stevenage.,0,7,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+PMUL1033.json,I want to arrive by 16:45.,0,6,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.245,0.755
+PMUL1033.json,"Sorry, I looked at the calendar. I need a Thursday train, not a Monday. Can you please find a train on that day instead?",1,24,3,0,0,1,0,0,0,0,0,0,0,1,0,1,1,0,0.063,0.112,0.825
+PMUL1033.json,What time will the train arrive in Cambridge?,0,8,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+PMUL1033.json,Ok please book that for 5 people.,1,7,1,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0.0,0.529,0.471
+PMUL1033.json,Thank you. I am also looking for a museum to visit. Do you have any recommendations?,1,16,3,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0.0,0.161,0.839
+PMUL1033.json,"Yes, please give me the postcode, entrance fee and address.",1,10,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0.0,0.385,0.615
+PMUL1033.json,No thank you.,1,3,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0.386,0.439,0.175
+PMUL1033.json,"Nope, you have been extremely helpful. Thanks again. Bye.",1,9,3,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0.0,0.473,0.527
+MUL1115.json,Yes I would like information on Clare hall.,1,8,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.51,0.49
+MUL1115.json,What is the phone number for Clare Hall?,0,8,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.157,0.843
+MUL1115.json,I also am looking for a hotel called kirkwood house,0,10,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+MUL1115.json,Can I get the address for the Kirkwood House?,0,9,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+MUL1115.json,That's it. Thank you.,1,5,2,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0.0,0.455,0.545
+MUL0121.json,"While I am visiting Cambridge, I would like to stay at the Ashley Hotel. Where is it located?",1,18,2,0,1,0,1,0,0,0,1,0,0,0,0,1,0,1,0.0,0.143,0.857
+MUL0121.json,"Book me a room there for 2 night with 6 people, starting Friday. Also, I will need the reference number.",1,20,2,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.08,0.92
+MUL0121.json,I'd like a cheap restaurant in the centre of the city.,1,12,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.217,0.783
+MUL0121.json,I would like Chinese food.,1,5,1,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0.0,0.455,0.545
+MUL0121.json,Let's go with Charlie Chan for 6 people at 15:45 Friday,0,12,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+MUL0121.json,No that will be all. Thank You.,1,7,2,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0.227,0.258,0.515
+WOZ20619.json,I would like a restaurant in the north part of town that serves australasian food,1,15,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.172,0.828
+WOZ20619.json,How about asian oriental food?,0,5,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+WOZ20619.json,"Yes, I would like their address and phone number.",1,9,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.565,0.435
+WOZ20619.json,Thank you goodbye.,0,3,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0.0,0.556,0.444
+MUL0726.json,I've heard good things about the Acorn guest house. Could you find it for me?,1,16,2,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0.0,0.172,0.828
+MUL0726.json,Thank you very much!,1,4,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0.0,0.482,0.518
+MUL0726.json,"Yes, I also need a train to Cambridge from Ely.",0,10,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0.0,0.278,0.722
+MUL0726.json,Wednesday and needs to arrive by 18:15 that day.,0,9,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+MUL0726.json,I don't need to book right now. What time does this train depart from Ely?,1,16,2,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+MUL0726.json,"Excellent, that's all the information I need right now. Thank you!",1,12,2,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0.0,0.448,0.552
+PMUL0047.json,Hi! I'm planning my trip to Cambridge and I was wondering if you had information on any Mediterranean restaurants located in the centre of Cambridge?,1,26,2,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0.0,0.0,1.0
+PMUL0047.json,Not really but I would like to make a reservation for 7 people at 16:45 on a Friday. I will need the reference number as well.,1,26,2,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0.0,0.301,0.699
+PMUL0047.json,Yes. That sounds good. Do you have any moderate priced guesthouses available?,1,12,3,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0.359,0.641
+PMUL0047.json,I don't seem to have a preference but I wiukd like a moderately priced place with free parking.,1,19,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.391,0.609
+PMUL0047.json,Could I have the postcode and how many stars of the hotel?,1,12,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.0,1.0
+PMUL0047.json,I also need to get a taxi to go from the hotel to the restaurant. I need it to arrive at 16:45. I'd like the contact number and the car type.,1,32,3,0,0,1,0,1,0,0,1,0,0,0,0,1,0,1,0.0,0.128,0.872
+PMUL0047.json,"Thank you so much, thats all I need",1,8,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0.0,0.294,0.706
+MUL1644.json,I need to book a train from Norwich to Cambridge.,0,10,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+MUL1644.json,I need to leave on Monday and arrive by 17:45.,0,10,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.13,0.0,0.87
+MUL1644.json,Could I please get the price and the train ID?,1,10,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0.0,0.223,0.777
+MUL1644.json,I also need a restaurant. Can you do that?,1,9,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.0,1.0
+MUL1644.json,fusion food would be ideal.,1,5,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0.0,0.459,0.541
+MUL1644.json,Try chinese food instead.,0,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+MUL1644.json,"Can we get a restaurant in the cheap price range. It will be for 5 people at 20:30, on the same day",1,22,2,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0.0,0.0,1.0
+MUL1644.json,"Pick your favorite and book it. We are a party of 5 and we'd like to eat late, like 20:30, on the same day as that train you found for me.",1,32,2,0,0,1,0,1,0,0,1,0,0,0,0,1,1,1,0.0,0.3,0.7
+MUL1644.json,Could you try for 19:30 please?,1,6,1,1,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0.0,0.315,0.685
+MUL1644.json,Thanks for all your help,1,5,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0.0,0.651,0.349
+PMUL2171.json,"Hi, can you help me with some information on places to go in town?",1,14,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0.0,0.172,0.828
+PMUL2171.json,I'm looking for a swimming pool in the North.,0,10,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+PMUL2171.json,What's the address and entrance fee for that pool?,0,10,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+PMUL2171.json,I would like a restaurant in the same area.,1,9,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.294,0.706
+PMUL2171.json,I would like asian oriental food in the expensive range.,1,10,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.238,0.762
+PMUL2171.json,Yes please book a table for 1 person at 14:45 on friday.,1,12,1,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0.0,0.385,0.615
+PMUL2171.json,Yes. I will also need a taxi to take me from Jesus Green Outdoor pool to Saigon City arriving in time for the reservation.,1,24,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.114,0.886
+PMUL2171.json,Thanks. That was all I needed. Goodbye.,1,7,3,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0.0,0.367,0.633
+PMUL2221.json,What kind of cool attractions to we have in town? Maybe in the water.,1,14,2,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.286,0.714
+PMUL2221.json,I would like to the information for the one east.,1,10,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.238,0.762
+PMUL2221.json,"I am actually looking for a boat attraction in the north, not a swimming pool.",0,15,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.214,0.786
+PMUL2221.json,Can I get their postcode please? I also am looking for a good restaurant in town.,1,16,2,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0.0,0.321,0.679
+PMUL2221.json,Yes I would like to find a restaurant that serves German food that is expensive.,1,15,1,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0.0,0.321,0.679
+PMUL2221.json,What about British food?,0,4,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+PMUL2221.json,Anywhere that you recommend will be great.,1,7,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0.0,0.569,0.431
+PMUL2221.json,"Yes, please. I would like it to be for 4 people at 14:15 on Saturday.",1,15,2,0,0,0,0,1,0,0,1,0,0,1,0,1,0,1,0.0,0.429,0.571
+PMUL2221.json,I also need a taxi between the two locations and need to get to the restaurant by 14:15,1,18,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+PMUL2221.json,Can you let me know the type of car?,1,9,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.0,1.0
+PMUL2221.json,No. that is all for now.,1,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.306,0.0,0.694
+PMUL3365.json,I need a train to leave cambridge and arrive by 19:00,0,11,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.13,0.0,0.87
+PMUL3365.json,My destination is going to be stansted airport,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+PMUL3365.json,I should leave on Thursday.,1,5,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.286,0.0,0.714
+PMUL3365.json,Great. Can you book me 7 seats on that train?,1,10,2,0,0,0,0,1,0,0,0,1,0,0,0,1,1,0,0.0,0.339,0.661
+PMUL3365.json,I also want to eat Modern European in the south.,0,10,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.14,0.86
+PMUL3365.json,"Yes, please, make it for the same group (7 people), 10:00 on the same day.",1,15,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0.0,0.278,0.722
+PMUL3365.json,Thanks for the help! Goodbye.,1,5,2,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0.0,0.663,0.337
+MUL1029.json,Yes I am looking for a place to stay that includes free wifi. I would prefer a guesthouse.,1,18,2,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.333,0.667
+MUL1029.json,I am looking for a cheap hotel with a rating of 0 out of 5 stars.,0,16,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+MUL1029.json,Does the El Shaddai include free wifi?,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.355,0.645
+MUL1029.json,Yes that will be fine. I will be needing accommodations for 5 adults for a total of 4 nights 5 days beginning Sunday. Include reference number.,1,26,3,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.244,0.756
+MUL1029.json,"Okay, thank you. I would also like to go to a museum while I'm in town. Could you give me some information on possible options?",1,26,3,0,0,0,0,0,0,0,1,0,1,0,0,1,1,0,0.0,0.257,0.743
+MUL1029.json,No thank you. Could you recommend your favorite museum?,1,9,2,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0.145,0.526,0.329
+MUL1029.json,"Actually, yes, that's great. You've answered all my question wonderfully, thank you. Bye!",1,15,3,0,0,0,0,0,0,0,0,1,1,0,1,1,1,0,0.0,0.6,0.4
+MUL0924.json,I am looking for a restaurant called thanh binh in Cambridge.,0,11,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+MUL0924.json,"No thanks, can I have the phone number please?",1,9,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0.173,0.512,0.315
+MUL0924.json,"Yes, I am searching for a particular attraction named old schools.",1,11,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.449,0.551
+MUL0924.json,"Yes, please provide more information about Old Schools. What type of attraction is it?",1,14,2,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0.0,0.421,0.579
+MUL0924.json,Could I get the address and postcode please?,1,8,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0.0,0.277,0.723
+MUL0924.json,I will need a taxi to commute between Thanh Binh and Old Schools. I need to leave Thanh Binh by 02:00.,1,21,2,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.066,0.0,0.934
+MUL0924.json,Thank you very much! That's all for today.,1,9,2,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0.0,0.285,0.715
+WOZ20481.json,I would like a moderately priced restaurant in the north part of town,1,13,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.2,0.8
+WOZ20481.json,Is there anything else in the moderate price range on the north part of town?,0,15,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+WOZ20481.json,"No, thank you. That's all I need.",1,8,2,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0.253,0.287,0.46
+MUL1200.json,I am looking for an entertainment attraction in the centre of town.,0,12,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.392,0.608
+MUL1200.json,Could you tell me about the types of museums in the Centre?,1,12,1,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0.0,0.0,1.0
+MUL1200.json,The History of Science Museum sounds interesting. Could you please send me the phone number and address?,1,17,2,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0.0,0.31,0.69
+MUL1200.json,"Yes, I'm also like to get away from it all and stay at a place in the centre with no internet.",1,22,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0.09,0.213,0.697
+MUL1200.json,No. I would like to stay in the same area as the attraction. It doesn't have to have internet but it does need to be expensive and with 3 stars.,1,31,3,0,0,0,0,1,0,0,1,0,0,0,0,1,0,1,0.053,0.124,0.824
+MUL1200.json,"Yes, if you could do that.",1,6,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0.0,0.351,0.649
+MUL1200.json,4 nights starting Friday for just myself. If you could book that and provide me a reference number that would be great!,1,22,2,0,0,0,0,1,0,0,1,1,0,0,0,1,1,0,0.0,0.24,0.76
+MUL1200.json,Please book me a taxi leaving the History of Science Museum back to the Gonville Hotel. I need to leave the museum by 17:45.,1,24,2,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0.051,0.098,0.851
+MUL1200.json,"No, you have been very helpful. Goodbye.",1,7,2,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0.214,0.3,0.486
+MUL2085.json,I need to find a train to bishops stortford please.,1,10,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0.0,0.247,0.753
+MUL2085.json,I need to leave from Cambridge and arrive by 14:30 in Bishops Stortford.,1,13,1,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0.098,0.0,0.902
+MUL2085.json,"Yes, I'd like to leave Thursday, what are the departure times and travel times?",0,15,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0.069,0.299,0.632
+MUL2085.json,That's not necessary. I need a place to stay too.,1,11,2,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+MUL2085.json,"I need a hotel in the west , free parking is not necessary but it should be rated 4 stars.",1,19,1,0,0,1,0,1,0,0,1,0,0,0,0,1,0,1,0.0,0.125,0.875
+MUL2085.json,Sounds great. Can I get more information on finches bed and breakfast please?,1,13,2,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0.0,0.39,0.61
+MUL2085.json,Would it be possible to book it for eight people for four nights?,1,13,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0.0,0.0,1.0
+MUL2085.json,"On Sunday, please.",1,3,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0.0,0.535,0.465
+MUL2085.json,No thank you that was all I needed. Good bye.,1,10,2,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0.162,0.397,0.441
+PMUL0140.json,I'm looking for an expensive indian restaurant.,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+PMUL0140.json,Yes it can be in centre. I would like to book it for 1 person at 20:00 on Saturday.,1,19,2,0,0,0,0,1,0,0,1,0,0,0,0,1,0,1,0.0,0.257,0.743
+PMUL0140.json,"No thanks, that will everything.",1,5,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.272,0.358,0.37
+PMUL0140.json,"You're welcome, thanks.",1,4,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0.0,0.855,0.145
+PMUL0140.json,I'd like to find a guesthouse in the north. I want it to have 2 stars.,1,17,2,0,0,1,0,1,0,0,1,0,0,0,0,1,0,1,0.0,0.257,0.743
+PMUL0140.json,Are there any hotels in that area instead of guesthouses?,0,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+PMUL0140.json,Is there a room at the Lovell Lodge available for 1 person on Saturday for 3 nights?,0,17,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+PMUL0140.json,"Great, thanks! Now I'd just like a taxi to take me from Lovell Lodge to Saffron Brasserie by 20:00. Please give me the car and contact info",1,28,3,0,0,1,0,1,0,0,1,1,1,1,0,1,0,0,0.0,0.355,0.645
+PMUL0140.json,Thanks that will be all. Goodbye,1,6,2,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0.0,0.367,0.633
+WOZ20458.json,I would like a restaurant in the east part of town that serves gastropub food,0,15,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.172,0.828
+WOZ20458.json,Thank you goodbye.,1,3,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0.0,0.556,0.444
+PMUL0341.json,I am looking for information on a hotel called Carolina Bed and Breakfast.,0,13,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+PMUL0341.json,how is it rated and give me the phone number and post code,0,13,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0.0,0.098,0.902
+PMUL0341.json,Can I get the phone number for that please? I want to book directly through them.,1,16,2,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0.0,0.308,0.692
+PMUL0341.json,Can you help me find a British restaurant in a moderate price range?,1,13,1,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0.0,0.213,0.787
+PMUL0341.json,Area doesn't matter. You can pick one and then please book it for me for 2 people on sunday at 16:30,1,22,2,0,0,0,0,1,0,0,0,0,0,1,0,1,1,1,0.05,0.108,0.842
+PMUL3487.json,I'm planning a trip and am looking for a place to stay. Can you help me with that?,1,19,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.153,0.847
+PMUL3487.json,I am looking for something in the cheap price range in the centre of town.,0,15,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+PMUL3487.json,Can you please book it? I'd like to stay for five nights beginning on Saturday. It's just me.,1,20,3,0,0,0,0,0,0,0,1,0,0,1,0,1,1,1,0.0,0.231,0.769
+PMUL3487.json,Great thanks for all your assistance!,1,6,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0.0,0.646,0.354
+PMUL3487.json,I'm also looking for information on an attraction called nusha.,0,11,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.25,0.75
+PMUL3487.json,What is the address?,0,4,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+PMUL3487.json,"Yes, I also need a taxi to go between the two. I want to leave Nusha by 03:00. Can you book and get me the contact and car type?",1,29,3,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,0.043,0.142,0.816
+PMUL3487.json,"Could you verify for me that the Alexander Bed and Breakfast has free wifi and free parking? If not, I'll need to change my reservation.",1,26,2,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0.0,0.223,0.777
+PMUL3487.json,No that is all the information I need today.,1,9,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.239,0.0,0.761
+PMUL3792.json,I am looking for information in Cambridge,0,7,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+PMUL3792.json,I'm looking for a cheap guesthouse in the centre.,0,10,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+PMUL3792.json,"Can you book the 4-star place? There will be 8 of us staying for 5 nights, and we'll be arriving on Wednesday.",1,23,2,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0.0,0.0,1.0
+PMUL3792.json,Could you tell me if theres a train going to cambridge that leaves after 21:00?,1,15,1,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0.0,0.0,1.0
+PMUL3792.json,Departing from peterborough and leaving after 21:00,0,7,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+PMUL3792.json,"It will be on Wednesday. I will need the price, please?",1,11,2,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0.0,0.204,0.796
+PMUL3792.json,"No, thank you. I think I have everything I need right now.",1,12,2,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0.188,0.214,0.598
+PMUL3792.json,ok cool leave me alone now,0,6,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.33,0.464,0.206
+SNG01445.json,I was robbed a few minutes ago and need assistance.,0,10,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+SNG01445.json,I need the address including postcode of the police station and also the phone number.,0,15,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.091,0.909
+SNG01445.json,Thank you. That's all I needed.,1,7,2,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0.0,0.385,0.615
+SNG01445.json,"Ok, have a good day. Goodbye.",1,6,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.63,0.37
+MUL0195.json,Can you find me a place with free parking to stay in the centre?,1,14,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.216,0.784
+MUL0195.json,A guesthouse with three star rating could be great.,0,9,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0.0,0.369,0.631
+MUL0195.json,"Please book me that hotel, it fits my preferences.",1,9,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0.0,0.223,0.777
+MUL0195.json,"What is the price range, address and phone number of the hotel?",0,12,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.106,0.894
+MUL0195.json,I'm also looking for a really nice restaurant that serves modern european food. Can you help me with that?,1,20,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.266,0.734
+MUL0195.json,What is the price range of this restaurant and is it located near the hotel?,0,15,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0.0,1.0
+MUL0195.json,"I would like a table for 5 on Sunday at 19:30 at Darrys Cookhouse, please.",1,15,1,0,0,0,0,1,0,0,1,0,0,1,0,1,0,0,0.0,0.324,0.676
+MUL0195.json,"Yes, can I have a table for 18:30 on the same day?",0,12,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.231,0.769
+MUL0195.json,"Yes, I need a taxi to commute between the two places. I need to arrive to the restaurant by 18:30. Can you get me a contact number and car type?",1,30,3,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,0.0,0.143,0.857
+MUL0195.json,"Nope that should be it, thank you very much",1,9,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1,0.0,0.238,0.762
+PMUL1030.json,"Hello, I'd like some information on a train departing from Cambridge on saturday.",1,14,1,0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,0.0,0.185,0.815
+PMUL1030.json,I am going to stevenage on saturday.,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+PMUL1030.json,The train should leave after 09:15. I'm not particular on arrival time.,1,13,2,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0.098,0.0,0.902
+PMUL1030.json,Yes please. I will have a party of 7. May I please get the reference number as well?,1,18,3,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0.0,0.598,0.402
+PMUL1030.json,Can I have the reference number?,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.245,0.755
+PMUL1030.json,Great. Can you find me a place to go in the west?,1,12,2,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0.0,0.291,0.709
+PMUL1030.json,"I have no preference. Can you just make a recommendation and provide the address, postcode, and phone number?",1,18,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.126,0.074,0.8
+PMUL1030.json,Thank you for the information.,1,5,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0.0,0.385,0.615
+PMUL1030.json,That will be all for today! Thank you for the help!,1,11,2,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0.0,0.391,0.609
+PMUL4373.json,Please help me book a train from Cambridge to Stanstead Airport.,1,11,1,0,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0.0,0.385,0.615
+PMUL4373.json,Monday. I need to leave after 18:15,0,7,2,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.194,0.0,0.806
+PMUL4373.json,"Yes, the 18:40 would work, how much does it cost?",0,10,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0.0,0.231,0.769
+PMUL4373.json,"That's OK, no thank you. Are there any nightclubs in town?",1,12,2,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0.141,0.348,0.512
+PMUL4373.json,What's the postcode for the one in the south?,0,10,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+PMUL4373.json,"Yes, thank you.",1,3,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0.0,0.839,0.161
+PMUL4373.json,No thank you that is all.,1,6,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0.253,0.287,0.46
+PMUL2400.json,I am looking to visit the centre while I am here. What types of attractions are available for tourists?,1,19,2,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.149,0.851
+PMUL2400.json,Can I get some information about the museums?,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+PMUL2400.json,The centre of town please.,1,5,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0.0,0.365,0.635
+PMUL2400.json,Could I get the phone number of the museum of archaeology and anthropology?,1,13,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.106,0.894
+PMUL2400.json,Yes please. I need a reservation for a particular restaurant called cocum.,0,12,2,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0.0,0.417,0.583
+PMUL2400.json,"Yes, Wednesday at 17:45. For 7 people.",0,7,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.351,0.649
+PMUL2400.json,"Nope, that's it, thanks!",1,5,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0.473,0.0,0.527
+MUL1931.json,I'm looking for a train.,0,6,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+MUL1931.json,I am looking for a train that goes to Peterborough from Cambridge and arrives by 19:00.,0,16,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+MUL1931.json,I'll be leaving monday and the departure time doesn't matter.,0,12,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.107,0.0,0.893
+MUL1931.json,"Okay, does TR9859 arrive by 19:00? I would also like the travel time, please.",1,14,2,0,0,0,0,1,0,0,1,0,0,1,0,1,0,0,0.0,0.401,0.599
+MUL1931.json,"Sure that's fine, does that have the same price?",1,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.369,0.631
+MUL1931.json,"Yes, I am also looking for more information on parkside pools. Can you tell me what kind of attraction it is?",1,21,2,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0.0,0.231,0.769
+MUL1931.json,That sounds like the best attraction ever. Thank you for all your careful assistance. Have a lovely day! Bye!!,1,19,5,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0.0,0.606,0.394
+MUL2217.json,Could you help me find a 0 star lodging with free parking?,1,12,1,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0.0,0.429,0.571
+MUL2217.json,"I want to make sure also, that it is a hotel and includes free wifi",0,15,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0.0,0.408,0.592
+MUL2217.json,Can I just get the address for them please,1,9,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0.0,0.247,0.753
+MUL2217.json,"Thanks, I also need a train to go to cambridge.",1,10,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0.0,0.293,0.707
+MUL2217.json,I want to leave from bishops stortford and arrive by 12:15.,0,11,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.114,0.124,0.762
+MUL2217.json,I would like to leave on friday.,1,7,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.156,0.325,0.519
+MUL2217.json,Please book me for one for train TR 6834,1,9,1,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0.0,0.223,0.777
+MUL2217.json,Thank you so much for your help.,1,7,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0.0,0.51,0.49
+PMUL2214.json,I'm looking to visit a museum in Cambridge. Can you tell me a little about what you have?,1,19,2,0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0.0,0.0,1.0
+PMUL2214.json,I don't have a preference. Can you recommend one?,1,10,2,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.294,0.706
+PMUL2214.json,"Sounds great, thanks. I am also looking for a restaurant in the Centre that serves gastropub food.",1,17,2,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0.0,0.35,0.65
+PMUL2214.json,It really doesn't matter money is no object. I need a table for 8 on thursday at 14:45. As long as its a gastropub in the centre of town,1,30,3,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0.134,0.0,0.866
+PMUL2214.json,awesome! thanks for all the info,1,6,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.0,0.646,0.354
+PMUL2214.json,I would also like to book a taxi to get between the museum and the restaurant.,1,16,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.161,0.839
+PMUL2214.json,I need to arrive at the restaurant by 14:45. I'll need the contact number and car type as well please.,1,21,2,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0.0,0.263,0.737
+PMUL2214.json,Thank you that's all the help I need. Goodbye,1,10,2,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0.0,0.464,0.536
+SNG01906.json,I Am injured and are looking for a hospital nearby,0,10,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.278,0.0,0.722
+SNG01906.json,"That hospital will be fine, do you have the address and postcode for that hospital?",1,15,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0.114,0.886
+SNG01906.json,No. That's all the information I was looking for today. Thanks.,1,12,3,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0.168,0.221,0.611
+SNG01906.json,"No, that would be all. Good bye.",1,7,2,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0.218,0.287,0.495
+PMUL0493.json,"Hello, I am in need of a 4 star place to stay in the north,please.",1,16,1,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0.0,0.0,1.0
+PMUL0493.json,I would like free wifi.,1,5,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.744,0.256
+PMUL0493.json,"Is that a guesthouse? If so, can you book me a room for Sunday for 5 people, 2 nights?",1,19,2,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0.0,0.0,1.0
+PMUL0493.json,"I am also looking for a place to dine, in the same area as the hotel.",0,16,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0
+PMUL0493.json,Moderate price range thank you,1,5,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0.0,0.385,0.615
+PMUL0493.json,Do they serve barbeque food?,0,5,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+PMUL0493.json,"I'm sorry, I think I'm spending too much money on this trip. Can you look for a cheap restaurant in the north that serves barbeque?",1,27,2,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0.056,0.0,0.944
+PMUL0493.json,Is there a cheap italian food restaurant?,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0
+PMUL0493.json,"Yes please, 5 people, 15:00 on sunday please.",1,8,1,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0.0,0.646,0.354
+PMUL0493.json,"Hello, are you still there? Its been a few minutes. I'm kind of in a hurry, is there a problem with the booking?",1,24,3,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0.139,0.0,0.861

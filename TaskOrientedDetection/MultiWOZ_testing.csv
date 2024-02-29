@@ -1,0 +1,201 @@
+turn,words,sentences,simple_quest,whq,imper_quest,places,sensitive_data,relatives,first_names,conditional_vb,gratitude,thanksgiving,excuses,greetings,self_references,you_references,neutral_references,neg,pos,neu,output
+"Hello, are you still there? Its been a few minutes. I'm kind of in a hurry, is there a problem with the booking?",24,3,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0.139,0.0,0.861,1
+i also need to use a taxi,7,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+I want to arrive at da vinci pizzeria by 15:00.,10,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.14,0.86,0
+From the hotel discussed.,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+Have you b ooked that yet? I need the reference number.,11,2,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.14,0.86,1
+Thank you for all your help.,6,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0.0,0.565,0.435,1
+Can you help me find a train departing from birmingham new street going to cambridge?,15,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.172,0.828,1
+train should arrive by 21:00 and should leave on tuesday,10,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0.118,0.0,0.882,1
+Can you assist me with booking one?,7,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.0,1.0,1
+That would be great. I also would like to book a guesthouse for my stay.,15,2,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0.0,0.375,0.625,1
+Yes. It should have 2 stars and include free wifi.,10,2,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0.0,0.462,0.538,1
+Maybe a star rating of 3 would be good. Is there anything available?,13,2,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0.0,0.225,0.775,1
+I need the reservation to be for 2 people and 2 nights please.,13,1,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0.0,0.204,0.796,1
+On Tuesday please.,3,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0.0,0.535,0.465,1
+"Thanks, that is all I'll need today. Bye.",9,2,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0.0,0.293,0.707,1
+Can you find me a Turkish restaurant in the expensive price range please?,13,1,0,0,0,1,0,0,0,0,0,0,1,0,1,1,0,0.0,0.173,0.827,1
+No. That's okay. Thank you. What is some other information on this location?,14,4,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0.133,0.265,0.602,1
+Thank you for that information I should have everything I need now.,12,1,0,0,0,0,0,0,0,1,0,1,0,0,1,1,0,0.0,0.217,0.783,1
+I'm looking for a train from Birmingham New Street to Cambridge.,12,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+"Sure, wednesday I would like to leave after 14:45 please.",10,1,0,0,0,0,1,0,0,1,0,0,1,0,1,0,0,0.09,0.534,0.376,1
+Yes but can you make a booking for 6 people? I would like a reference number too.,17,2,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0.0,0.396,0.604,1
+Nope that should be it thank you,7,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1,0.0,0.294,0.706,1
+Hi. I'm looking for a train going to Kings Lynn on Monday.,13,2,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0.0,0.0,1.0,1
+I would definitely like to arrive by 14:45 at the latest.,11,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0.0,0.394,0.606,1
+No. I just need to arrive by 14:45. I would also like the price.,14,3,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0.15,0.17,0.68,1
+I'm also looking for a place to stay that includes parking,12,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+I would like one in the expensive price range and needs to include free parking.,15,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.326,0.674,1
+Does it have a 4-star rating by chance?,8,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0.0,0.25,0.75,0
+Are there any 1 star hotels meeting those requirements?,9,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+"I guess the 4 star would be better. They have internet, right?",12,2,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0.0,0.244,0.756,1
+"No, just the phone number if you have it.",9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.21,0.124,0.667,1
+No that is everything. I need thank you for your help!,11,2,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0.15,0.374,0.476,1
+I'm looking for the Parkside Police Station please.,9,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0.0,0.247,0.753,1
+"Thanks, I think that's all I needed!",8,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0.0,0.444,0.556,1
+I want to find a place to stay in the north with free parking.,14,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.315,0.685,0
+"Yes, I would prefer a moderate price range.",8,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.351,0.649,1
+"That sounds great, could you make the reservations for me there then? I will be there Sunday with 3 people and we will stay for 2 nights.",27,2,0,0,0,0,1,0,0,1,1,0,0,0,1,1,0,0.0,0.151,0.849,1
+"No,lets try ext weekend,see if you can book it for then ?",13,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.0,0.0,1.0,1
+"Yes, same price range.",4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.474,0.526,0
+"Yes, please.",2,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0.0,1.0,0.0,1
+Okay great. Thank you very much.,6,2,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0.0,0.739,0.261,1
+That will be all. Thank you for your help.,9,2,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0.0,0.426,0.574,1
+"I'm planning a trip to Cambridge and need a 4 star place with wifi to stay. It doesn't matter if its a hotel or guesthouse, just 4 star please.",31,2,0,0,0,1,1,0,0,0,0,0,1,0,1,0,1,0.042,0.091,0.867,1
+It should be cheap and include free parking.,8,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0.0,0.32,0.68,1
+No particular area. What do you recommend?,7,2,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0.227,0.258,0.515,1
+Oh thats great. Please assist to book that for 5 nights starting from Saturday and if it fails then Tuesday. Please send me the reference number when you are done.,30,3,0,0,1,0,1,0,0,0,1,0,1,0,1,1,1,0.076,0.272,0.652,1
+"Yes, I'm looking for entertainment attractions located in the centre.",11,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.542,0.458,0
+"Okay, perhaps you can find a college that I can visit.",11,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.192,0.808,1
+Sounds great. What is the address?,6,2,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.451,0.549,1
+i also want a taxi to commute between the two places,11,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.14,0.86,0
+I want to leave the attraction at 09:45 and head to the restaurant.,13,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.083,0.297,0.621,0
+Thank you so much.,4,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0.0,0.455,0.545,1
+I'm wondering if there is a train leaving at 21:15 that will take me to the Stansted Airport.,19,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+Is there a train leaving before that?,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+Okay. Can you book that for me please?,8,2,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0.0,0.412,0.588,1
+"It's just me. Can I have the price, travel time, and train ID? Also, do you have any places I can go when I get there?",27,3,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0.0,0.0,1.0,1
+"Okay, can you find attractions near the centre?",8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0.439,0.561,1
+Could you suggest me one? Also let me know of what type of attraction it is and the place's postcode.,21,2,0,1,1,0,0,0,0,1,0,0,0,0,1,1,1,0.0,0.136,0.864,1
+"Thanks, I have all I need. Have a nice day.",10,2,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0.0,0.533,0.467,1
+"Wonderful help, thanks",3,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0.0,1.0,0.0,1
+Can you find me an attraction in the centre?,9,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.273,0.727,1
+Not looking for anything specific. Maybe a college or museum if you can give me the address and entrance fee.,20,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.0,1.0,1
+Thank you goodbye,3,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0.0,0.556,0.444,1
+I would like a restaurant in the west part of town that serves international food,15,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.172,0.828,1
+Is there any restaurant in the east that serves international food?,11,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+can i have the phone number please,7,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0.0,0.474,0.526,1
+"That is all, thank you.",5,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0.0,0.385,0.615,1
+I'm looking for a four star place to stay.,10,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+Expensive would be good. And I prefer the west part of town.,12,2,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.225,0.775,1
+Does it have free parking and what is the price rage?,11,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0.226,0.208,0.566,0
+Could you give me the phone number for that hotel?,10,1,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0.0,0.126,0.874,1
+"Yes, can you help me find a place to dine that is in the same area as the hotel?",19,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.252,0.748,1
+"Is it an expensive restaurant? I'll need the address, postcode and phone number",14,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0.0,0.098,0.902,1
+May I have the address as well please?,8,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0.0,0.468,0.532,1
+"Ok thank you. That's all I needed, bye now.",10,2,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0.0,0.439,0.561,1
+I need to find a moderately priced place to stay.,10,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+I would like a 4 star place to stay in but I don't need parking.,16,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0.0,0.149,0.851,1
+"I'm not concerned about area, but I do need a hotel.",12,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+Are you sure? It does NOT need to have free parking.,11,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.0,0.384,0.616,1
+I think a bed and breakfast would be fine. I just need a moderate price range 4 star place.,19,2,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0.0,0.122,0.878,1
+"yes, i want to book it for 1 people and 2 nights starting from thursday.",15,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0.0,0.286,0.714,0
+I also need to book a table for 1 on Thursday at 16:45 at India House. Can you do that for me?,22,2,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0.0,0.0,1.0,1
+"I will need a taxi that will take me from the Avalon to the India House by 16:45, can you book that for me?",24,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0.0,0.0,1.0,1
+well thank you thats all for today,7,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0.0,0.479,0.521,1
+I need a train leaving cambridge. I have to arrive by 20:15.,12,2,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,1
+To Birmingham new street on Wednesday.,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+Can you give me the total travel time?,8,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.0,1.0,1
+Not today I think I may book at the station. That is all for today. Thank you so much!,19,3,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0.0,0.149,0.851,1
+Can you let me knows about what architecture is available ot visit in south cambridge?,15,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.0,1.0,1
+how about one that is in the type of nightclub,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+"Yes, I'm random like that! How much is the entrance fee for The Place?",15,2,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.314,0.686,1
+I would also like the postcode.,6,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.385,0.615,1
+i also need a train,5,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+"I'll be departing from london liverpool street on wednesday, and wold like to arrive in cambridge by 11:15.",19,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.128,0.872,0
+I think TR8813 will work. Can you tell me what time it leaves?,13,2,0,1,1,0,1,0,0,0,0,0,0,0,1,1,1,0.0,0.0,1.0,1
+That's all I need today. Thanks!,7,2,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0.0,0.444,0.556,1
+I'm looking for the Cambridge Contemporary Art.,8,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+May I have the phone number and postcode?,8,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.178,0.822,0
+"Can you help me find a train leaving Saturday, departing from stansted airport?",13,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.197,0.803,1
+I am headed to Cambridge and need to arrive by 1:30pm.,11,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+"It would, thanks. Please make me a booking for 2 people on that train.",14,2,0,0,1,0,1,0,0,1,0,1,1,0,1,0,1,0.0,0.342,0.658,1
+"Thanks, that's all I need today. I appreciate your help.",11,2,0,0,1,0,0,0,0,0,1,1,0,0,1,1,0,0.0,0.624,0.376,1
+I'd like to find an attraction to visit. Something in the west.,13,2,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.355,0.645,1
+I would like to see a theater.,7,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.385,0.615,1
+am also looking for a restaurant. The restaurant should serve south african food and should be in the moderate price range,21,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0.0,0.0,1.0,1
+How about one that serves South African food?,8,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+no but how about one that serves british food.,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.167,0.0,0.833,0
+"Yes, can you please book this for me?",8,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0.0,0.455,0.545,1
+"I'm not ready to book yet. Can I get the phone number, postcode, and address, please?",17,2,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0.119,0.203,0.678,1
+Yes I need an attraction in the west. Anyone will do. Whatever you recommend.,14,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.451,0.549,1
+I also need a south african restaurant.,7,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+Is there a restaurant in the west that serves British food?,11,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+"Not at this time. Can you give me the phone number, address and postcode, please?",15,2,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0.0,0.217,0.783,1
+"That is all, thanks.",4,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.0,0.492,0.508,1
+Hi! I need to find the Parkside Police station please.,10,2,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0.0,0.245,0.755,1
+Thank you Goodbye.,3,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0.0,0.556,0.444,1
+"Hello, I'm looking for an expensive restaurant that serves british food please",13,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0.0,0.173,0.827,1
+"No, there is no particular area I would like to be in.",12,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.295,0.168,0.537,1
+i would also need the phone number,7,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.206,0.794,1
+"Yes, I'm looking for a train that's heading to Cambridge by 14:45.",14,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0.0,0.213,0.787,0
+I'm departing Leicaster on Wednesday. I need a booking for 1 person with a reference number please.,18,2,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0.0,0.247,0.753,1
+"I do not, thank you for the information",8,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0.26,0.0,0.74,1
+Are you sure there are no trains from leicester to cambridge on wednesday before 14:45? That seems odd to me.,20,2,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0.189,0.097,0.714,1
+I really only need a train for that route. Thanks for your help.,13,2,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0.0,0.384,0.616,1
+I need to find a restaurant in the north side of town,12,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+I don't have a price range. I'm looking for a restaurant that serves catalan food.,17,2,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,1
+How about French type food?,5,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+Yes. Can I get the name and phone number of one of those restaurants?,14,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.267,0.733,1
+What is the area again sorry ?,6,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0.206,0.0,0.794,1
+Thank you for your help. Have a great evening.,9,2,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0.0,0.65,0.35,1
+"Hello, I'm looking for places to go in town when I visit Cambridge. What kind of entertainment attractions are there available in the centre?",25,2,0,1,0,1,0,0,0,0,0,0,0,1,1,0,0,0.0,0.202,0.798,1
+How about a swimming pool in centre?,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+How much is admissoin?,4,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+"Yes, please - the phone number and postcode.",7,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0.0,0.612,0.388,1
+i also want to book a stay at alpha-milton guest house. i want to book for 3 people and 2 nights starting from wednesday.,24,2,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0.0,0.133,0.867,1
+Thank you so much you have been a big help.,10,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0.0,0.426,0.574,1
+Thank I will.,3,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0.0,0.714,0.286,1
+"I need to find a moderately priced guesthouse, please.",9,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0.0,0.277,0.723,1
+"I need a place in the North, sorry.",8,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0.206,0.0,0.794,1
+Not worried about parking. I am looking for a hotel that would be available starting Monday for 4 nights for 6 people.,22,2,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0.0,0.1,0.9,1
+Sounds great. I want to book the hotel for 6 people. We will be there for 4 nights and arrive on Monday. May I also get the reference number?,29,4,0,0,1,0,1,0,0,0,1,0,0,0,1,0,0,0.0,0.233,0.767,1
+"No, thank you, that's all that I need.",9,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0.227,0.258,0.515,1
+I'm looking for a nice guesthouse to stay at during my trip to Cambridge. Anything with a 4 star rating will do.,23,2,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0.0,0.135,0.865,1
+"Possibly, does this guesthouse hotel offer free parking and free wifi?",11,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.423,0.577,0
+That could work. Where is Allenbell located?,7,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0.0,0.0,1.0,1
+I am also looking for a cheap restaurant in the area that serves vegetarian food.,15,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+What price range do you have for vegetarian food in the centre area?,13,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0.0,1.0,1
+Are there any that serve spanish food instead? Preferably in the center area as well.,15,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.13,0.87,1
+I just need the address for one of the restaurants.,10,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+Thank you. The last thing I think I need is a taxi. To pick me up at the restaurant by 10.00?,21,3,0,0,1,0,1,0,0,0,0,1,0,0,1,1,0,0.0,0.128,0.872,1
+I need to return back to the hotel from the restaurant.,11,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+Yes I will also need the contact number for the taxi. Thanks,12,2,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0.0,0.463,0.537,1
+What is the car type that will be sent?,9,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+"No, that is all! Thank you very much!",8,2,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0.195,0.273,0.532,1
+I need help finding a train that will depart on Saturday.,11,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.252,0.748,0
+I am going to Cambridge and leaving from Stevenage.,9,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+by 18:45 please.,3,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0.0,0.535,0.465,1
+The train should arrive by 18:45 and should leave on saturday.,11,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0.107,0.0,0.893,1
+"Yes please. Also I am looking for a concerthall in the east. If there are none available, how about a boat attraction.",22,3,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0.0,0.333,0.667,1
+I think that is all I need. Thank you.,9,2,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0.0,0.294,0.706,1
+I need a place to stay that has free wifi please.,11,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0.0,0.444,0.556,1
+Do you have a one in the centre that is a 3 star?,13,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0.0,0.0,1.0,1
+Is it a guesthouse?,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0.0,1.0,0
+Are there any guesthouses in the west?,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+"I need a Taxi, I want it to go to carolina bed and breakfast, arriving for my reservation at 4:00.",20,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0.0,0.075,0.925,0
+from Charlie chan,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0
+"Ok got it, thank you very much",7,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,1,0.0,0.485,0.515,1
+"nope that's everything, thanks.",5,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.445,0.0,0.555,1
+You have a great day too!,6,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0.0,0.523,0.477,1
+"There is a place I want to see, can you help me?",12,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.333,0.667,1
+I am looking for a attraction called cineworld cinema.,9,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.333,0.667,0
+"Yes, can you help me find a place to eat?",10,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.435,0.565,1
+Actually never mind. I would actually like just find a place to stay in the cheap price range in the west.,21,2,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.122,0.878,1
+"The hotel I'm looking for should have a star of 4, in the cheap range, somewhere in the West. It'll be for 3 people and 4 nights starting Wednesday.",31,2,0,0,0,0,1,0,0,1,0,0,0,0,1,0,1,0.0,0.0,1.0,1
+thanks alot and is there parking for two cars?,9,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.0,0.266,0.734,1
+"Thank you, that is all I need.",7,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0.0,0.333,0.667,1
+"Hi, I could use some help with information on places to stay.",12,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0.0,0.213,0.787,1
+The price range is on the expensive side and I would like if they provide free wifi and parking. I want the hotel to be located on the north side.,30,2,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.221,0.779,1
+"Yes, I would like to find a hotel in the south.",11,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.426,0.574,1
+That sounds perfect. I need it for 3 nights and 7 people will be staying starting Monday.,17,2,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0.0,0.222,0.778,1
+Thanks. I am also looking for a train to Broxbourne from Cambridge.,12,2,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0.0,0.244,0.756,1
+I am leaving on Thursday.,5,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+I am looking for a hotel with a star of four with free wifi.,14,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.248,0.752,0
+I would like a guesthouse. Location and price aren't important.,11,2,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.158,0.248,0.595,1
+"Ok, please book for 4 nights beginning thursday for 2 people. Thank you.",13,2,0,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0.0,0.467,0.533,1
+"Oh before you book, please advise on whether they have free parking or not.",14,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0.0,0.318,0.682,1
+"Well that does not work,can I get the phone number anyway?",12,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.298,0.702,0
+and what area is it in?,6,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0.0,1.0,0
+Yes. I need a train leaving anytime after 17:45 in cambridge and going to stevenage on monday. 2 tickets and the ref would be great,25,3,0,0,1,0,1,0,0,1,1,0,0,0,1,0,0,0.0,0.254,0.746,1
+"Ok, thank you. This is all the information I need right now.",12,2,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0.0,0.343,0.657,1
+"Would you help me book a train for Thursday, please?",10,1,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0.0,0.417,0.583,1
+I would like to go to Cambridge,7,1,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0.0,0.333,0.667,1
+I will be leaving from Kings Lynn.,7,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+I would like to leave after 15:45.,7,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0.156,0.325,0.519,1
+"Yes, please. I am also looking for a place to stay, ideally a hotel with a 4 star rating in the moderate price range.",24,2,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0.0,0.328,0.672,1
+I would like a cheaper hotel.,6,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0,0.455,0.545,1
+Can I get the reference number for that booking?,9,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.157,0.843,0
+Is that for 2 people? And I need it for 5 nights starting thursday.,14,2,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0.0,0.0,1.0,1
+I prefer a moderate price one.,6,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,1.0,0
+"In the east. With free wifi, please.",7,2,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0.0,0.528,0.472,1
