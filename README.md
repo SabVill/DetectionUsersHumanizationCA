@@ -24,6 +24,13 @@ For each type of CA, we provide:
 - The program for automatic detection over a single user's turn (_CAtype_ _singleturn.py)
 - The trained model(s) (.pkl files)
 
+Libraries and tools used for the detection:
+- **sklearn** for vectorization, models training and test
+- **pandas** for dataframes
+- **nltk** for NLP techniques
+- **joblib** for models export and import
+- **SentenceTransformer** for S-BERT word embeddings
+
 ## TaskOrientedDetection
 
 Automatic detection of task-oriented CA's humanization ascribed by users.
