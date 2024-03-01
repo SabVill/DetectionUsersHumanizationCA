@@ -1,13 +1,13 @@
 # Automatic Detection of CA's humanization from users
 
-Nowadays, Conversational Agents (CAs) show more and more intelligent and human-like behaviors. A user interacting with them may antropomoprhing them, by ascribing them capabilities that CAs do not actually have. 
+Nowadays, Conversational Agents (CAs) show more and more intelligent and human-like behaviors. A user interacting with them may anthropomorphize them, by ascribing them capabilities that CAs do not have. 
 This phenomenon can damage the interaction, as the user could be disappointed by CA's mistakes in understanding his/her requests and consequently abandon the conversation.
 
-With this work, we aim to give a practical intrument to automatically detect when the user is excessively humanizing the CA, in order to store this information in a user model that would help the CA to adapt its answers to guide the user to the most correct conversational styles to follow.
-The detection is performed on user's (conversational) turns through baseline machine learning models (SVM and Logistic Regression) and from three types of features extracted from texts:
+With this work, we aim to give a practical instrument to automatically detect when the user is excessively humanizing the CA, to store this information in a user model that would help the CA to adapt its answers to guide the user to the most correct conversational styles to follow.
+The detection is performed on the user's (conversational) turns through baseline machine learning models (SVM and Logistic Regression) and from three types of features extracted from texts:
 
-- **Heuristics features**: specific features that determine hat the user is excessively humanizing the CA (from works of the state-of-the-art)
-- **Frequency features**: TF-IDF weigths
+- **Heuristics features**: specific features that determine that the user is excessively humanizing the CA (from works of the state-of-the-art)
+- **Frequency features**: TF-IDF weights
 - **Semantics features**: words embeddings with SentenceBERT
 
 We discriminate the detection for three types of CAs, that are:
@@ -17,11 +17,11 @@ We discriminate the detection for three types of CAs, that are:
 - **LLM-based chatbots**: LLMbasedDetection
 
 For each type of CA, we provide:
-- The dataset we used for model(s) training (_datasetname__feat.csv)
-- The produced dataset(s) from the automatic detection (_datasetname__(_model_)_testing.csv)
-- The program for models training (_CAtype__training_export.py)
+- The dataset we used for model(s) training (_datasetname_ _feat.csv)
+- The produced dataset(s) from the automatic detection (_datasetname_ _(_model_)_testing.csv)
+- The program for models training (_CAtype_ _training_export.py)
 - The program for automatic detection over csv dataset of users' turns (_CAtype_.py)
-- The program for automatic detection over a single user's turn (_CAtype__singleturn.py)
+- The program for automatic detection over a single user's turn (_CAtype_ _singleturn.py)
 - The trained model(s) (.pkl files)
 
 ## TaskOrientedDetection
