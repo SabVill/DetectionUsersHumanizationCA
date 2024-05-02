@@ -1,4 +1,4 @@
-# Automatic Detection of CA's humanization from users
+# Automatic Detection of User's Humanization of Chatbots
 
 With this work, we aim to give a practical instrument to automatically detect when the user is excessively humanizing a chatbot.
 The detection is performed on the user's (conversational) turns through baseline machine learning models (SVM and Logistic Regression) and from three types of features extracted from texts:
